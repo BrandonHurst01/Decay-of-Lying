@@ -14,7 +14,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 792,
-  "@id" : "http://localhost:8887/iiif/33",
+  "@id" : "https://brandonhurst01.github.io/Decay-of-Lying/33",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 1276
 }

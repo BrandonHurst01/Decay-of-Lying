@@ -1,6 +1,6 @@
 {
   "tiles" : [ {
-    "scaleFactors" : [ 1, 2, 4, 8 ],
+    "scaleFactors" : [ 1, 2,],
     "width" : 512,
     "height" : 512
   } ],
@@ -23,7 +23,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 1218,
-  "@id" : "http://localhost:8887/iiif/51",
+  "@id" : "https://brandonhurst01.github.io/Decay-of-Lying/51",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 2000
 }
