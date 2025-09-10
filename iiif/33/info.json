@@ -1,0 +1,20 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 1 ],
+    "width" : 256,
+    "height" : 256
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 396,
+    "height" : 638
+  }, {
+    "width" : 792,
+    "height" : 1276
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 792,
+  "@id" : "http://localhost:8887/iiif/33",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1276
+}
