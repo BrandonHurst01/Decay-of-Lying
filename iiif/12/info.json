@@ -23,7 +23,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 1224,
-  "@id" : "https://brandonhurst01.github.io/Decay-of-Lying/12",
+  "@id" : "https://brandonhurst01.github.io/Decay-of-Lying/iiif/12",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 2000
 }
