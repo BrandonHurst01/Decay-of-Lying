@@ -90,16 +90,16 @@
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://bcae1ee7-d450-48e5-9ce9-889bbc0258ed",
+							"@id": "http://e024a8c5-9e97-4f88-83ad-73ebd01585e3",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/3/full/full/0/default.jpg",
+								"@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/59/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/3",
+									"@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/59",
 									"profile": "http://iiif.io/api/image/2/level0.json"
 								},
 								"height": 2000,
