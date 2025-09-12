@@ -2,59 +2,56 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Decay of Lying Workspace</title>
+  <title>Decay of Lying Mirador Workspace</title>
 
-  <!-- Universal Viewer CSS -->
-  <link rel="stylesheet" href="https://unpkg.com/universalviewer/dist/uv.css">
-
-  <!-- Edition Crafter CSS -->
-  <link rel="stylesheet" href="https://unpkg.com/edition-crafter/dist/edition-crafter.min.css">
+  <!-- Mirador CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/mirador/dist/css/mirador.min.css">
 
   <style>
-    body { margin: 0; font-family: sans-serif; }
-
-    /* Flex container for side-by-side layout */
-    .workspace {
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      height: 100vh;
       display: flex;
-      height: 100vh; /* full viewport height */
     }
 
-    /* Each viewer takes 50% of width */
-    .viewer-container {
-      flex: 1;
-      border: 1px solid #ccc;
+    /* Mirador container takes left half */
+    #mirador {
+      flex: 1;        /* 50% width since only two panels */
+      height: 100vh;  /* full viewport height */
+      border-right: 1px solid #ccc;
       box-sizing: border-box;
-      overflow: hidden;
+    }
+
+    /* Placeholder for other viewers on the right */
+    #right-panel {
+      flex: 1;
+      height: 100vh;
+      background: #f5f5f5;
     }
   </style>
 </head>
 <body>
 
-  <div class="workspace">
-    <!-- Universal Viewer -->
-    <div id="uv" class="viewer-container"></div>
+  <div id="mirador"></div>
+  <div id="right-panel"></div>
 
-    <!-- Edition Crafter -->
-    <div id="edition-crafter" class="viewer-container"></div>
-  </div>
-
-  <!-- Universal Viewer JS -->
-  <script src="https://unpkg.com/universalviewer/dist/uv.min.js"></script>
-
-  <!-- Edition Crafter JS -->
-  <script src="https://unpkg.com/edition-crafter/dist/edition-crafter.min.js"></script>
+  <!-- Mirador JS -->
+  <script src="https://unpkg.com/mirador/dist/mirador.min.js"></script>
 
   <script>
-    // Initialize Universal Viewer
-    var uv = new UV.Viewer('#uv', {
-      manifest: "https://brandonhurst01.github.io/Decay-of-Lying/FC_manifest.json"
-    });
-
-    // Initialize Edition Crafter
-    var ec = new EditionCrafter({
-      container: '#edition-crafter',
-      manifest: "https://brandonhurst01.github.io/Decay-of-Lying/FC_manifest.json",
-      // You can add edition-specific options here
+    Mirador.viewer({
+      id: 'mirador',
+      windows: [
+        {
+          loadedManifest: "https://brandonhurst01.github.io/Decay-of-Lying/FC_manifest.json",
+          view: "single", // initial view: single or book
+          thumbnailNavigationPosition: "bottom", // can also be "far-right"
+          sidePanelVisible: true // opens index/thumbnails panel
+        }
+      ],
+      thumbnailNavigation: true,
+      workspaceControlPanel: false
     });
   </script>
 
