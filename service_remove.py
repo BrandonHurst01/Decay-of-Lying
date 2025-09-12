@@ -23,7 +23,7 @@ def remove_service(obj):
             remove_service(item)
 
 # Load your JSON manifest
-with open("manifest_test_updated.json", "r", encoding="utf-8") as f:
+with open("manifest_test.json", "r", encoding="utf-8") as f:
     manifest = json.load(f)
 
 # Remove "service" fields
