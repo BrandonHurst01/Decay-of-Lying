@@ -2,43 +2,59 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Decay of Lying Viewer</title>
+  <title>Decay of Lying Workspace</title>
 
-  <!-- Mirador CSS -->
-  <link rel="stylesheet" href="https://unpkg.com/mirador/dist/css/mirador.min.css">
+  <!-- Universal Viewer CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/universalviewer/dist/uv.css">
 
-  <!-- Optional: full page layout -->
+  <!-- Edition Crafter CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/edition-crafter/dist/edition-crafter.min.css">
+
   <style>
-    html, body {
-      height: 100%;
-      margin: 0;
-      padding: 0;
+    body { margin: 0; font-family: sans-serif; }
+
+    /* Flex container for side-by-side layout */
+    .workspace {
+      display: flex;
+      height: 100vh; /* full viewport height */
     }
-    #mirador {
-      height: 100%;
+
+    /* Each viewer takes 50% of width */
+    .viewer-container {
+      flex: 1;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+      overflow: hidden;
     }
   </style>
 </head>
 <body>
 
-  <!-- Viewer container -->
-  <div id="mirador"></div>
+  <div class="workspace">
+    <!-- Universal Viewer -->
+    <div id="uv" class="viewer-container"></div>
 
-  <!-- Mirador JS -->
-  <script src="https://unpkg.com/mirador/dist/mirador.min.js"></script>
+    <!-- Edition Crafter -->
+    <div id="edition-crafter" class="viewer-container"></div>
+  </div>
+
+  <!-- Universal Viewer JS -->
+  <script src="https://unpkg.com/universalviewer/dist/uv.min.js"></script>
+
+  <!-- Edition Crafter JS -->
+  <script src="https://unpkg.com/edition-crafter/dist/edition-crafter.min.js"></script>
 
   <script>
-    // Initialize Mirador
-    Mirador.viewer({
-      id: "mirador",
-      windows: [
-        {
-          loadedManifest: "https://brandonhurst01.github.io/Decay-of-Lying/FC_manifest.json",
-          viewType: "single",
-          canvasIndex: 0
-        }
-      ],
-      buildPath: "https://unpkg.com/mirador/dist/"
+    // Initialize Universal Viewer
+    var uv = new UV.Viewer('#uv', {
+      manifest: "https://brandonhurst01.github.io/Decay-of-Lying/FC_manifest.json"
+    });
+
+    // Initialize Edition Crafter
+    var ec = new EditionCrafter({
+      container: '#edition-crafter',
+      manifest: "https://brandonhurst01.github.io/Decay-of-Lying/FC_manifest.json",
+      // You can add edition-specific options here
     });
   </script>
 
