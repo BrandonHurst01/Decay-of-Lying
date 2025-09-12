@@ -25,39 +25,47 @@ jpeg_lookup = {f.name: f for f in iiif_root.rglob("*.jpg")}
 
 def repair_image_service(image_entry):
     """
-    Repairs the 'service' block for a single image entry using actual JPEGs.
+    Repairs the 'service' block for a single image entry using actual JPEG dimensions.
+    Keeps the original remote URL for IIIF zooming.
     """
     resource = image_entry.get("resource", {})
     if not resource:
         return
 
-    # Extract the filename from @id (assumes URL ends with filename like default.jpg)
+    # Original image URL
     image_url = resource.get("@id", "")
-    filename = Path(image_url).name
-    jpeg_path = jpeg_lookup.get(filename)
-
-    if not jpeg_path or not jpeg_path.exists():
-        print(f"WARNING: JPEG not found for {filename}")
+    if not image_url:
         return
 
-    # Get actual image dimensions
+    # Determine local JPEG path for dimension checking
+    filename = Path(image_url).name
+    jpeg_candidates = list(iiif_root.rglob(filename))
+    if not jpeg_candidates:
+        print(f"WARNING: Local JPEG not found for {filename}")
+        return
+    jpeg_path = jpeg_candidates[0]
+
+    # Read actual dimensions
     with Image.open(jpeg_path) as img:
         width, height = img.size
 
-    # Update width and height in resource
+    # Update width and height
     resource["width"] = width
     resource["height"] = height
 
-    # Recreate the service block
+    # Update service block using the **remote URL base**
+    # For example: remove "/full/full/0/default.jpg" from image_url
+    base_url = str(image_url).rsplit("/", 5)[0]
+
     resource["service"] = {
         "@context": "http://iiif.io/api/image/2/context.json",
-        "@id": str(jpeg_path.parent).replace("\\", "/"),  # IIIF requires forward slashes
+        "@id": base_url,
         "profile": "http://iiif.io/api/image/2/level2.json"
     }
 
-    # Put it back in the image entry
     image_entry["resource"] = resource
     print(f"Repaired {filename} ({width}x{height})")
+
 
 # Load manifest
 with open(manifest_path, "r", encoding="utf-8") as f:
