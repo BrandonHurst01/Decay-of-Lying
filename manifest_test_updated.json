@@ -85,8 +85,6 @@
           "@id": "http://da14627a-2f7d-4d74-b14d-c91f057dcffb",
           "@type": "sc:Canvas",
           "label": "f002",
-          "height": 2000,
-          "width": 1254,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
