@@ -1,20 +1,12 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 12 07:23:22 2025
-
-@author: brand
-"""
-
 import json
 import requests
-from PIL import Image
-from io import BytesIO
 
 manifest_path = "manifest_test.json"
 with open(manifest_path, "r", encoding="utf-8") as f:
     manifest = json.load(f)
 
 updated = False
+
 for seq in manifest.get("sequences", []):
     for canvas in seq.get("canvases", []):
         for img_anno in canvas.get("images", []):
@@ -22,20 +14,30 @@ for seq in manifest.get("sequences", []):
             img_url = resource.get("@id")
 
             if img_url and img_url.endswith(".jpg"):
-                try:
-                    response = requests.get(img_url, timeout=10)
-                    if response.status_code == 200:
-                        image = Image.open(BytesIO(response.content))
-                        width, height = image.size
+                # Build info.json URL
+                info_url = img_url.replace("/full/full/0/default.jpg", "") + "/info.json"
+                width = height = None
 
-                        # Update canvas + resource dimensions
-                        canvas["width"] = width
-                        canvas["height"] = height
-                        resource["width"] = width
-                        resource["height"] = height
-                        updated = True
+                try:
+                    resp = requests.get(info_url, timeout=10)
+                    if resp.status_code == 200:
+                        info = resp.json()
+                        width = info.get("width")
+                        height = info.get("height")
+                        print(f"✅ {canvas['label']} → {width} x {height}")
                 except Exception as e:
-                    print(f"Error fetching {img_url}: {e}")
+                    print(f"⚠️ Could not fetch info.json for {img_url}: {e}")
+
+                if width and height:
+                    # Update Canvas only
+                    canvas["width"] = width
+                    canvas["height"] = height
+
+                    # Remove width/height from resource if they exist
+                    resource.pop("width", None)
+                    resource.pop("height", None)
+
+                    updated = True
 
 if updated:
     with open("manifest_test_updated.json", "w", encoding="utf-8") as f:

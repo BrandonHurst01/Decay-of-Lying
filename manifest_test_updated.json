@@ -43,9 +43,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/1",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1329
+                }
               },
               "on": "http://79412fbc-6011-4ffd-963b-ae6dad93c397"
             }
@@ -72,9 +70,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/2",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1322
+                }
               },
               "on": "http://ffbbef7c-202e-4e18-aafc-0cac0f59c110"
             }
@@ -101,9 +97,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/3",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1254
+                }
               },
               "on": "http://da14627a-2f7d-4d74-b14d-c91f057dcffb"
             }
@@ -130,9 +124,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/4",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1232
+                }
               },
               "on": "http://0bd7b548-cddf-4931-bc83-dfa86b3ba5c7"
             }
@@ -159,9 +151,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/5",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1256
+                }
               },
               "on": "http://ce98d3af-d340-42d6-ab4f-f7021b02b860"
             }
@@ -188,9 +178,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/6",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1221
+                }
               },
               "on": "http://0985a0d4-5886-4cdc-abc8-826d9c502bac"
             }
@@ -217,9 +205,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/7",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1230
+                }
               },
               "on": "http://576207c2-f043-4a11-b7b1-9ce6e7de60c1"
             }
@@ -246,9 +232,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/8",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1251
+                }
               },
               "on": "http://86161cff-1dfe-4ca8-b632-d5d43c96fe42"
             }
@@ -275,9 +259,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/9",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1251
+                }
               },
               "on": "http://e2118093-cf1e-4617-af87-0dc4a212e0ff"
             }
@@ -304,9 +286,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/10",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1237
+                }
               },
               "on": "http://9d3fa9dc-9bbf-4168-8d7b-49157a100b47"
             }
@@ -333,9 +313,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/11",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1218
+                }
               },
               "on": "http://72ce3241-81d2-414e-9ca9-e0892e31d6fe"
             }
@@ -362,9 +340,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/12",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1224
+                }
               },
               "on": "http://8af3e848-11e2-4f6a-a5ba-0f8570ba3869"
             }
@@ -391,9 +367,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/13",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1232
+                }
               },
               "on": "http://cd928e25-e411-40eb-ad33-67b1dcfabd16"
             }
@@ -420,9 +394,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/14",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1252
+                }
               },
               "on": "http://a080c2f7-bef6-4f55-b293-82d15263037f"
             }
@@ -449,9 +421,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/15",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1269
+                }
               },
               "on": "http://cd01c3a1-03b0-4aec-9def-5c4ff78e214f"
             }
@@ -478,9 +448,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/16",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1230
+                }
               },
               "on": "http://309127ea-2906-4503-bb8c-8307eb6e4621"
             }
@@ -507,9 +475,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/17",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1225
+                }
               },
               "on": "http://c623c5cd-7952-4532-a198-3d134c7b174d"
             }
@@ -536,9 +502,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/18",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1240
+                }
               },
               "on": "http://b6ee1e7d-f758-4dfb-a3e4-e64e5277badd"
             }
@@ -565,9 +529,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/19",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1242
+                }
               },
               "on": "http://4f37afc3-3057-4f7d-a1d8-7133df9d8edf"
             }
@@ -594,9 +556,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/20",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1237
+                }
               },
               "on": "http://9afdb609-4250-4a8e-9761-6d638ec8a16f"
             }
@@ -623,9 +583,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/21",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1232
+                }
               },
               "on": "http://e7ef64d5-b743-4ace-845d-9d53bdb06572"
             }
@@ -652,9 +610,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/22",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1244
+                }
               },
               "on": "http://d00b491d-85f6-45f1-9cca-8f48f6153b73"
             }
@@ -681,9 +637,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/23",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1270
+                }
               },
               "on": "http://449b7c77-503f-4e23-8d46-80cee4782c0e"
             }
@@ -710,9 +664,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/25",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1249
+                }
               },
               "on": "http://21843a42-99c7-4c77-8d1e-bae19b8ae854"
             }
@@ -739,9 +691,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/26",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1267
+                }
               },
               "on": "http://96b788bb-2b35-47ba-b4dd-ad614f6168f8"
             }
@@ -768,9 +718,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/27",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1233
+                }
               },
               "on": "http://cffabd36-96ab-4143-b45c-72ecb2849f71"
             }
@@ -797,9 +745,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/28",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1267
+                }
               },
               "on": "http://77da4bf8-7097-46ca-9d8b-7ac7600775cd"
             }
@@ -826,9 +772,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/29",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1247
+                }
               },
               "on": "http://571086c1-8317-468b-9976-e10d70997d36"
             }
@@ -855,9 +799,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/30",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1245
+                }
               },
               "on": "http://94511388-203d-4aad-bedb-68e491c673d0"
             }
@@ -884,9 +826,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/31",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1240
+                }
               },
               "on": "http://7a3cd2b6-c84e-437e-9314-479477078b2b"
             }
@@ -913,9 +853,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/32",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1264
+                }
               },
               "on": "http://175093ae-1b47-481f-916d-b2a85b1ca712"
             }
@@ -942,9 +880,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/33",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 1276,
-                "width": 792
+                }
               },
               "on": "http://3ad52f93-80da-43ec-876d-b2e902c02484"
             }
@@ -971,9 +907,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/34",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1277
+                }
               },
               "on": "http://c35d264a-204f-4ab0-8eff-adcdc7b26156"
             }
@@ -1000,9 +934,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/35",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1237
+                }
               },
               "on": "http://79c77959-20de-4fcf-8c80-7412c988798c"
             }
@@ -1029,9 +961,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/36",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1228
+                }
               },
               "on": "http://7daa83e2-63e0-4fb5-a6af-c304b1462773"
             }
@@ -1058,9 +988,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/37",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1244
+                }
               },
               "on": "http://fedd1e45-9b7f-4a55-b07c-4a16492d00fd"
             }
@@ -1087,9 +1015,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/38",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1257
+                }
               },
               "on": "http://a828ed0c-2103-429a-bc37-6068741371a7"
             }
@@ -1116,9 +1042,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/39",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1232
+                }
               },
               "on": "http://ffa8ac75-fbb6-4730-8924-2a1dd454298f"
             }
@@ -1145,9 +1069,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/40",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1227
+                }
               },
               "on": "http://16d57d43-90a8-4e15-bd7a-f16d990811ea"
             }
@@ -1174,9 +1096,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/41",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1216
+                }
               },
               "on": "http://adebe5fc-931f-42ed-b86c-52807a79653c"
             }
@@ -1203,9 +1123,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/42",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1241
+                }
               },
               "on": "http://f8c944f4-5704-4010-9bb7-680c2bd25dc5"
             }
@@ -1232,9 +1150,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/43",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1245
+                }
               },
               "on": "http://dfd33361-181a-4bef-89b5-9d2759c6c8bb"
             }
@@ -1261,9 +1177,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/44",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 1304,
-                "width": 796
+                }
               },
               "on": "http://82f363fe-4163-466f-abda-427f049117fd"
             }
@@ -1290,9 +1204,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/45",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1246
+                }
               },
               "on": "http://0129e3c1-d8c1-49a3-b9c3-0a8659039d39"
             }
@@ -1319,9 +1231,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/46",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1218
+                }
               },
               "on": "http://1b53facc-0b66-4b2d-9e31-41573f9330de"
             }
@@ -1348,9 +1258,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/48",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1276
+                }
               },
               "on": "http://e8f09364-6256-4f60-bbaf-1f3cd281c3f8"
             }
@@ -1377,9 +1285,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/49",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1276
+                }
               },
               "on": "http://d9ed7f8a-4eba-4b5a-a65e-195c77418e4e"
             }
@@ -1406,9 +1312,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/50",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1176
+                }
               },
               "on": "http://0f1ff695-9433-4154-a93b-30c74eb5df2d"
             }
@@ -1435,9 +1339,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/51",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1218
+                }
               },
               "on": "http://831cfdf5-5fcb-4652-921b-d2d52ce53409"
             }
@@ -1464,9 +1366,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/52",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1282
+                }
               },
               "on": "http://dcb50a59-a153-4e83-bc04-2d3d744c6859"
             }
@@ -1493,9 +1393,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/53",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1167
+                }
               },
               "on": "http://3ff2dbe1-3ebf-4142-afd2-c1c32d1bcb41"
             }
@@ -1522,9 +1420,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/55",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1295
+                }
               },
               "on": "http://6c424cb3-0f8e-40c7-877c-cef5f8d70a9e"
             }
@@ -1551,9 +1447,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/56",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1267
+                }
               },
               "on": "http://caf844bb-46b7-4ecd-bc20-e38d52ecf772"
             }
@@ -1580,9 +1474,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/57",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1312
+                }
               },
               "on": "http://842f8cea-8a30-419d-9f8a-0e32e03b6586"
             }
@@ -1609,9 +1501,7 @@
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/58",
                   "profile": "http://iiif.io/api/image/2/level0.json"
-                },
-                "height": 2000,
-                "width": 1296
+                }
               },
               "on": "http://d4410f08-1828-4a62-af32-0897837cb551"
             }
