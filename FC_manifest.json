@@ -1,0 +1,1364 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://7fb37fd5-f769-4238-ad66-72f470c5a00f",
+    "@type": "sc:Manifest",
+    "label": "\"Decay of Lying: a Dialogue\"",
+    "metadata": [],
+    "description": [
+        {
+            "@value": "University of Akron, Herman Muehlstein Rare Book Collection, PR5818.d43 1889",
+            "@language": "en"
+        }
+    ],
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": "Oscar Wilde",
+    "sequences": [
+        {
+            "@id": "http://444acf6c-9a02-42e0-97a7-a73662df4f1b",
+            "@type": "sc:Sequence",
+            "label": [
+                {
+                    "@value": "Normal Sequence",
+                    "@language": "en"
+                }
+            ],
+            "canvases": [
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/Front%20board",
+                    "@type": "sc:Canvas",
+                    "label": "Front board",
+                    "height": 2000,
+                    "width": 1329,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/Front%20board",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/1/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1329
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/Front%20board"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/Front%20Pastedown%20%28with%20institutional%20lable%29",
+                    "@type": "sc:Canvas",
+                    "label": "Front Pastedown (with institutional lable)",
+                    "height": 2000,
+                    "width": 1322,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/Front%20Pastedown%20%28with%20institutional%20lable%29",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1322
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/Front%20Pastedown%20%28with%20institutional%20lable%29"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f001",
+                    "@type": "sc:Canvas",
+                    "label": "f001",
+                    "height": 2000,
+                    "width": 1254,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f001",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/3/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1254
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f001"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f002",
+                    "@type": "sc:Canvas",
+                    "label": "f002",
+                    "height": 2000,
+                    "width": 1232,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f002",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/4/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1232
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f002"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f003",
+                    "@type": "sc:Canvas",
+                    "label": "f003",
+                    "height": 2000,
+                    "width": 1256,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f003",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/5/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1256
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f003"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f004",
+                    "@type": "sc:Canvas",
+                    "label": "f004",
+                    "height": 2000,
+                    "width": 1221,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f004",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/6/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1221
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f004"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f005",
+                    "@type": "sc:Canvas",
+                    "label": "f005",
+                    "height": 2000,
+                    "width": 1230,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f005",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/7/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1230
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f005"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f006",
+                    "@type": "sc:Canvas",
+                    "label": "f006",
+                    "height": 2000,
+                    "width": 1251,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f006",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/8/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1251
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f006"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f007",
+                    "@type": "sc:Canvas",
+                    "label": "f007",
+                    "height": 2000,
+                    "width": 1251,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f007",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/9/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1251
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f007"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f008",
+                    "@type": "sc:Canvas",
+                    "label": "f008",
+                    "height": 2000,
+                    "width": 1237,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f008",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/10/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1237
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f008"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f009",
+                    "@type": "sc:Canvas",
+                    "label": "f009",
+                    "height": 2000,
+                    "width": 1218,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f009",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/11/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1218
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f009"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f010",
+                    "@type": "sc:Canvas",
+                    "label": "f010",
+                    "height": 2000,
+                    "width": 1224,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f010",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/12/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1224
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f010"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f011",
+                    "@type": "sc:Canvas",
+                    "label": "f011",
+                    "height": 2000,
+                    "width": 1232,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f011",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/13/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1232
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f011"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f012",
+                    "@type": "sc:Canvas",
+                    "label": "f012",
+                    "height": 2000,
+                    "width": 1252,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f012",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/14/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1252
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f012"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f013",
+                    "@type": "sc:Canvas",
+                    "label": "f013",
+                    "height": 2000,
+                    "width": 1269,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f013",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/15/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1269
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f013"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f014",
+                    "@type": "sc:Canvas",
+                    "label": "f014",
+                    "height": 2000,
+                    "width": 1230,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f014",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/16/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1230
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f014"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f015",
+                    "@type": "sc:Canvas",
+                    "label": "f015",
+                    "height": 2000,
+                    "width": 1225,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f015",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/17/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1225
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f015"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f016",
+                    "@type": "sc:Canvas",
+                    "label": "f016",
+                    "height": 2000,
+                    "width": 1240,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f016",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/18/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1240
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f016"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f017",
+                    "@type": "sc:Canvas",
+                    "label": "f017",
+                    "height": 2000,
+                    "width": 1242,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f017",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/19/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1242
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f017"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f018",
+                    "@type": "sc:Canvas",
+                    "label": "f018",
+                    "height": 2000,
+                    "width": 1237,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f018",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/20/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1237
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f018"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f019",
+                    "@type": "sc:Canvas",
+                    "label": "f019",
+                    "height": 2000,
+                    "width": 1232,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f019",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/21/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1232
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f019"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f020",
+                    "@type": "sc:Canvas",
+                    "label": "f020",
+                    "height": 2000,
+                    "width": 1244,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f020",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/22/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1244
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f020"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f021",
+                    "@type": "sc:Canvas",
+                    "label": "f021",
+                    "height": 2000,
+                    "width": 1270,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f021",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/23/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1270
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f021"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f022",
+                    "@type": "sc:Canvas",
+                    "label": "f022",
+                    "height": 2000,
+                    "width": 1228,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f022",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/24/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1228
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f022"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f023",
+                    "@type": "sc:Canvas",
+                    "label": "f023",
+                    "height": 2000,
+                    "width": 1249,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f023",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/25/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1249
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f023"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f024",
+                    "@type": "sc:Canvas",
+                    "label": "f024",
+                    "height": 2000,
+                    "width": 1267,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f024",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/26/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1267
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f024"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f025",
+                    "@type": "sc:Canvas",
+                    "label": "f025",
+                    "height": 2000,
+                    "width": 1233,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f025",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/27/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1233
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f025"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f026",
+                    "@type": "sc:Canvas",
+                    "label": "f026",
+                    "height": 2000,
+                    "width": 1267,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f026",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/28/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1267
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f026"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f027",
+                    "@type": "sc:Canvas",
+                    "label": "f027",
+                    "height": 2000,
+                    "width": 1247,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f027",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/29/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1247
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f027"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f028",
+                    "@type": "sc:Canvas",
+                    "label": "f028",
+                    "height": 2000,
+                    "width": 1245,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f028",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/30/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1245
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f028"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f029",
+                    "@type": "sc:Canvas",
+                    "label": "f029",
+                    "height": 2000,
+                    "width": 1240,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f029",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/31/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1240
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f029"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f030",
+                    "@type": "sc:Canvas",
+                    "label": "f030",
+                    "height": 2000,
+                    "width": 1264,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f030",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/32/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1264
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f030"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f031",
+                    "@type": "sc:Canvas",
+                    "label": "f031",
+                    "height": 1276,
+                    "width": 792,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f031",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/33/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1276,
+                                "width": 792
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f031"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f032",
+                    "@type": "sc:Canvas",
+                    "label": "f032",
+                    "height": 2000,
+                    "width": 1277,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f032",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/34/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1277
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f032"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f033",
+                    "@type": "sc:Canvas",
+                    "label": "f033",
+                    "height": 2000,
+                    "width": 1237,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f033",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/35/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1237
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f033"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f034",
+                    "@type": "sc:Canvas",
+                    "label": "f034",
+                    "height": 2000,
+                    "width": 1228,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f034",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/36/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1228
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f034"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f035",
+                    "@type": "sc:Canvas",
+                    "label": "f035",
+                    "height": 2000,
+                    "width": 1244,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f035",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/37/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1244
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f035"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f036",
+                    "@type": "sc:Canvas",
+                    "label": "f036",
+                    "height": 2000,
+                    "width": 1257,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f036",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/38/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1257
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f036"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f037",
+                    "@type": "sc:Canvas",
+                    "label": "f037",
+                    "height": 2000,
+                    "width": 1232,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f037",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/39/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1232
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f037"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f038",
+                    "@type": "sc:Canvas",
+                    "label": "f038",
+                    "height": 2000,
+                    "width": 1227,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f038",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/40/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1227
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f038"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f039",
+                    "@type": "sc:Canvas",
+                    "label": "f039",
+                    "height": 2000,
+                    "width": 1216,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f039",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/41/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1216
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f039"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f040",
+                    "@type": "sc:Canvas",
+                    "label": "f040",
+                    "height": 2000,
+                    "width": 1241,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f040",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/42/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1241
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f040"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f041",
+                    "@type": "sc:Canvas",
+                    "label": "f041",
+                    "height": 2000,
+                    "width": 1245,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f041",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/43/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1245
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f041"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f042",
+                    "@type": "sc:Canvas",
+                    "label": "f042",
+                    "height": 1304,
+                    "width": 796,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f042",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/44/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1304,
+                                "width": 796
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f042"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f043",
+                    "@type": "sc:Canvas",
+                    "label": "f043",
+                    "height": 2000,
+                    "width": 1246,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f043",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/45/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1246
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f043"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f044",
+                    "@type": "sc:Canvas",
+                    "label": "f044",
+                    "height": 2000,
+                    "width": 1218,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f044",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/46/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1218
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f044"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f045",
+                    "@type": "sc:Canvas",
+                    "label": "f045",
+                    "height": 2000,
+                    "width": 1248,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f045",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/47/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1248
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f045"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f046",
+                    "@type": "sc:Canvas",
+                    "label": "f046",
+                    "height": 2000,
+                    "width": 1276,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f046",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/48/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1276
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f046"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f047",
+                    "@type": "sc:Canvas",
+                    "label": "f047",
+                    "height": 2000,
+                    "width": 1276,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f047",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/49/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1276
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f047"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f048a",
+                    "@type": "sc:Canvas",
+                    "label": "f048a",
+                    "height": 2000,
+                    "width": 1176,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f048a",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/50/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1176
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f048a"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f048b",
+                    "@type": "sc:Canvas",
+                    "label": "f048b",
+                    "height": 2000,
+                    "width": 1218,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f048b",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/51/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1218
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f048b"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f049",
+                    "@type": "sc:Canvas",
+                    "label": "f049",
+                    "height": 2000,
+                    "width": 1282,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f049",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/52/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1282
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f049"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f050",
+                    "@type": "sc:Canvas",
+                    "label": "f050",
+                    "height": 2000,
+                    "width": 1167,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f050",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/53/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1167
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f050"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f051",
+                    "@type": "sc:Canvas",
+                    "label": "f051",
+                    "height": 2000,
+                    "width": 1260,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f051",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/54/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1260
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f051"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f052",
+                    "@type": "sc:Canvas",
+                    "label": "f052",
+                    "height": 2000,
+                    "width": 1295,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f052",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/55/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1295
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f052"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f053",
+                    "@type": "sc:Canvas",
+                    "label": "f053",
+                    "height": 2000,
+                    "width": 1267,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f053",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/56/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1267
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f053"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f054",
+                    "@type": "sc:Canvas",
+                    "label": "f054",
+                    "height": 2000,
+                    "width": 1312,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/f054",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/57/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1312
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/f054"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/Rear%20board%20Pastedown",
+                    "@type": "sc:Canvas",
+                    "label": "Rear board Pastedown",
+                    "height": 2000,
+                    "width": 1296,
+                    "images": [
+                        {
+                            "@id": "https://brandonhurst01.github.io/Decay-of-Lying/annotation/Rear%20board%20Pastedown",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/58/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1296
+                            },
+                            "on": "https://brandonhurst01.github.io/Decay-of-Lying/canvas/Rear%20board%20Pastedown"
+                        }
+                    ],
+                    "related": ""
+                }
+            ]
+        }
+    ],
+    "structures": []
+}
