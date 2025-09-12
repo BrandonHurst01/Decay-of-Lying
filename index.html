@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Decay of Lying Viewer</title>
+  <title>Decay of Lying Dual Workspace</title>
 
   <!-- Mirador CSS -->
   <link rel="stylesheet" href="https://unpkg.com/mirador@3.3.0/dist/css/mirador.min.css">
@@ -12,26 +12,34 @@
       height: 100%;
       margin: 0;
       padding: 0;
-      display: flex; /* allows side-by-side layout */
+      display: flex; /* side-by-side layout */
+      font-family: sans-serif;
     }
 
     #left-panel {
-      width: 50%; /* left half for other content */
-      background-color: #f5f5f5; /* optional: just to visualize */
+      width: 50%; 
+      height: 100%;
+      background-color: #f5f5f5; 
+      overflow: auto;
+      padding: 20px;
+      box-sizing: border-box;
     }
 
     #mirador {
-      width: 50%; /* right half for Mirador */
+      width: 50%; 
       height: 100%;
     }
   </style>
 </head>
 <body>
- <div id="left-panel">
-    <!-- You could put Edition Crafter or other content here -->
-    <h2>Edition Crafter / Other Panel</h2>
+
+  <div id="left-panel">
+    <h2>Edition Crafter</h2>
+    <p>This panel can host your text editing, notes, or any interactive edition-crafting tools.</p>
+    <!-- Example: simple textarea -->
+    <textarea style="width:100%; height:80%;" placeholder="Add your edition notes here..."></textarea>
   </div>
-  <!-- Viewer container -->
+
   <div id="mirador"></div>
 
   <!-- Mirador JS -->
@@ -45,8 +53,8 @@
           loadedManifest: "https://brandonhurst01.github.io/Decay-of-Lying/FC_manifest.json",
           viewType: "single",
           canvasIndex: 0,
-          thumbnailNavigationPosition: "far-right", // ensures thumbnails appear
-          openThumbnails: true // forces the thumbnail tray to open by default
+          thumbnailNavigationPosition: "far-right",
+          openThumbnails: true // thumbnails tray open by default
         }
       ]
     });
