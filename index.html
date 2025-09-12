@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>The Decay of Lying Digital Edition</title>
+  <title>The Decay of Lying by Oscar Wilde. A Digital Edition</title>
   <style>
     html, body {
       height: 100%;
       margin: 0;
-      font-family: sans-serif;
+      font-family: Garamond, serif;
     }
     h1 {
       text-align: center;
@@ -15,7 +15,7 @@
     }
     .workspace {
       display: flex;
-      height: calc(100% - 60px); /* leave space for title */
+      height: calc(100% - 40px); /* leave space for title */
     }
     .half {
       flex: 1;
@@ -31,19 +31,21 @@
 </head>
 <body>
 
-  <h1>"The Decay of Lying"<br>by Oscar Wilde<br>A Digital Edition</h1>
-
-  <div class="workspace">
-    <!-- Universal Viewer on the left -->
-    <div class="half">
-      <iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://brandonhurst01.github.io/Decay-of-Lying/FC_manifest.json&c=0&m=0&cv=3&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-636,0,2502,2000&r=0" allowfullscreen></iframe>
-    </div>
-
-    <!-- Edition Crafter on the right -->
+  <h1>"The Decay of Lying" by Oscar Wilde. A Digital Edition</h1>
+  
+    <!-- Edition Crafter on the left -->
     <div class="half">
       <iframe src="https://edition-crafter-demo-url" allowfullscreen></iframe>
     </div>
   </div>
+  
+  <div class="workspace">
+    <!-- Universal Viewer on the right -->
+    <div class="half">
+      <iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://brandonhurst01.github.io/Decay-of-Lying/FC_manifest.json&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-636,0,2502,2000&r=0" allowfullscreen></iframe>
+    </div>
+
+
 
 </body>
 </html>
