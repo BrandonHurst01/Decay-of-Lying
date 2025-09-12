@@ -2,11 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>"The Decay of Lying" by Oscar Wilde A Digital Edition</title>
+  <title>"The Decay of Lying" by Oscar Wilde<br>A Digital Edition</title>
 
-  <!-- UV CSS -->
-  <link rel="stylesheet" href="https://unpkg.com/universalviewer/dist/uv.css">
-
+  <!-- Official UV CSS -->
+  <link rel="stylesheet" href="https://uv.museum.github.io/uv/css/uv.css">
   <style>
     html, body {
       margin: 0;
@@ -23,7 +22,7 @@
 
     #workspace {
       display: flex;
-      height: calc(100% - 60px); /* header height */
+      height: calc(100% - 60px);
     }
 
     #editionCrafter {
@@ -52,13 +51,14 @@
     <div id="uv"></div>
   </div>
 
-  <!-- UV JS -->
-  <script src="https://unpkg.com/universalviewer/dist/uv.js"></script>
+  <!-- Official UV JS -->
+  <script src="https://uv.museum.github.io/uv/js/uv.js"></script>
   <script>
-    // Initialize Universal Viewer
-    var uv = new UV.Viewer(document.getElementById('uv'), {
-      manifest: "https://brandonhurst01.github.io/Decay-of-Lying/FC_manifest.json",
-      thumbnailNavigation: true
+    // Initialize UV
+    var uv = new UV.Viewer({
+      target: document.getElementById('uv'),
+      configUri: "https://uv.museum.github.io/uv/config/uv-config.json",
+      manifestUri: "https://brandonhurst01.github.io/Decay-of-Lying/FC_manifest.json"
     });
   </script>
 
