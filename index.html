@@ -2,61 +2,93 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Decay of Lying Digital Edition</title>
+  <title>The Decay of Lying by Oscar Wilde: A Digital Edition</title>
 
   <!-- Mirador CSS -->
-  <link rel="stylesheet" href="https://unpkg.com/mirador@3.3.0/dist/css/mirador.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/mirador/dist/css/mirador.min.css">
 
+  <!-- Optional: full page layout -->
   <style>
     html, body {
       height: 100%;
       margin: 0;
       padding: 0;
-      display: flex; /* side-by-side layout */
-      font-family: sans-serif;
+      font-family: Arial, sans-serif;
     }
 
-    #left-panel {
-      width: 50%; 
-      height: 100%;
-      background-color: #f5f5f5; 
+    /* Page title */
+    header {
+      background-color: #f5f5f5;
+      padding: 15px 0;
+      text-align: center;
+      border-bottom: 1px solid #ccc;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2em;
+    }
+
+    header h1 span {
+      font-size: 1.2em;
+      display: block;
+    }
+
+    /* Dual workspace layout */
+    #workspace {
+      display: flex;
+      height: calc(100% - 70px); /* subtract header height */
+    }
+
+    #editionCrafter {
+      flex: 1;
+      border-right: 1px solid #ccc;
       overflow: auto;
-      padding: 20px;
-      box-sizing: border-box;
     }
 
     #mirador {
-      width: 50%; 
-      height: 100%;
+      flex: 1;
+      overflow: auto;
     }
   </style>
 </head>
 <body>
 
-  <div id="left-panel">
-    <h2>Edition Crafter</h2>
-    <p>This panel can host your text editing, notes, or any interactive edition-crafting tools.</p>
-    <!-- Example: simple textarea -->
-    <textarea style="width:100%; height:80%;" placeholder="Add your edition notes here..."></textarea>
+  <!-- Page title -->
+  <header>
+    <h1>
+      The Decay of Lying
+      <span>by Oscar Wilde: A Digital Edition</span>
+    </h1>
+  </header>
+
+  <!-- Dual workspace -->
+  <div id="workspace">
+    <!-- Edition Crafter placeholder -->
+    <div id="editionCrafter">
+      <!-- You can embed Edition Crafter here -->
+      <p style="padding: 20px;">Edition Crafter goes here</p>
+    </div>
+
+    <!-- Mirador container -->
+    <div id="mirador"></div>
   </div>
 
-  <div id="mirador"></div>
-
   <!-- Mirador JS -->
-  <script src="https://unpkg.com/mirador@3.3.0/dist/mirador.min.js"></script>
+  <script src="https://unpkg.com/mirador/dist/mirador.min.js"></script>
 
   <script>
+    // Initialize Mirador
     Mirador.viewer({
       id: "mirador",
       windows: [
         {
           loadedManifest: "https://brandonhurst01.github.io/Decay-of-Lying/FC_manifest.json",
           viewType: "single",
-          canvasIndex: 0,
-          thumbnailNavigationPosition: "far-right",
-          openThumbnails: true // thumbnails tray open by default
+          canvasIndex: 0
         }
-      ]
+      ],
+      buildPath: "https://unpkg.com/mirador/dist/"
     });
   </script>
 
