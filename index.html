@@ -15,7 +15,7 @@
     }
     .workspace {
       display: flex;
-      height: calc(100% - 40px); /* leave space for title */
+      height: calc(100% - 60px); /* leave space for title and footer */
     }
     .half {
       flex: 1;
@@ -26,6 +26,11 @@
       width: 100%;
       height: 100%;
       border: none;
+    }
+    footer {
+      text-align: center;
+      margin: 5px 0;
+      font-size: 0.9em;
     }
   </style>
 </head>
@@ -41,9 +46,11 @@
 
     <!-- Universal Viewer on the right -->
     <div class="half">
-      <iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://brandonhurst01.github.io/Decay-of-Lying/FC_manifest.json&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-346,-112,2019,2222&r=0" allowfullscreen></iframe>
+      <iframe src="https://uv-v4.netlify.app/uv.html#?manifest=https://brandonhurst01.github.io/Decay-of-Lying/FC_manifest.json&c=0&m=0&cv=0&config=&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),pl-PL:Polski,sv-SE:Svenska&xywh=-346,-112,2019,2222&r=0&cvSidePanel=open&thumbnails=false" allowfullscreen></iframe>
     </div>
   </div>
+
+  <footer>Edited by Brandon Hurst</footer>
 
 </body>
 </html>
