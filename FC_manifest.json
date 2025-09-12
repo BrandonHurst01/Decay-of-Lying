@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "http://7fb37fd5-f769-4238-ad66-72f470c5a00f",
     "@type": "sc:Manifest",
-    "label": "\"Decay of Lying: a Dialogue\"",
+    "label": "\"The Decay of Lying: a Dialogue\"",
     "metadata": [],
     "description": [
         {
