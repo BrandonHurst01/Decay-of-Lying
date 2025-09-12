@@ -1,10 +1,46 @@
-<html>
-  <head><title>The Decay of Lying by Oscar Wilde</title></head>
-  <body>
-    <h1>Digital Edition of the Variants</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Decay of Lying Viewer</title>
 
-    <ul>
-      <li><a href=""> </a></li>
-    </ul>
-  </body>
+  <!-- Mirador CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/mirador/dist/css/mirador.min.css">
+
+  <!-- Optional: full page layout -->
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+    #mirador {
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Viewer container -->
+  <div id="mirador"></div>
+
+  <!-- Mirador JS -->
+  <script src="https://unpkg.com/mirador/dist/mirador.min.js"></script>
+
+  <script>
+    // Initialize Mirador
+    Mirador.viewer({
+      id: "mirador",
+      windows: [
+        {
+          loadedManifest: "https://brandonhurst01.github.io/Decay-of-Lying/FC_manifest.json",
+          viewType: "single",
+          canvasIndex: 0
+        }
+      ],
+      buildPath: "https://unpkg.com/mirador/dist/"
+    });
+  </script>
+
+</body>
 </html>
