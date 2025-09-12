@@ -92,17 +92,11 @@
               "resource": {
                 "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/3/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://brandonhurst01.github.io/Decay-of-Lying/iiif/3",
-                  "profile": "http://iiif.io/api/image/2/level0.json"
-                }
+                "format": "image/jpeg"
               },
               "on": "http://da14627a-2f7d-4d74-b14d-c91f057dcffb"
             }
-          ],
-          "related": ""
+          ]
         },
         {
           "@id": "http://0bd7b548-cddf-4931-bc83-dfa86b3ba5c7",
