@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header">
+		<fileDesc>
+			<titleStmt>
+				<title>"The Decay of Lying"</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/manifest.json" xml:id="&quot;DecayofLyingaDialogue&quot;">
+		<surface xml:id="f000" ulx="0" uly="0" lrx="1329" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/1/canvas">
+			<label>Front board</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/1"/>
+		</surface>
+		<surface xml:id="f001" ulx="0" uly="0" lrx="1322" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/2/canvas">
+			<label>Front Pastedown (with institutional label)</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/2"/>
+		</surface>
+		<surface xml:id="f002" ulx="0" uly="0" lrx="1254" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/3/canvas">
+			<label>1</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/3"/>
+			<zone xml:id="f002_z000" ulx="1031.3077392578125" uly="51.24650192260742" lrx="1167.67138671875" lry="228.51922607421875"/>
+			<zone xml:id="f002_z001" ulx="752.7896118164062" uly="1145.608154296875" lrx="1194.215087890625" lry="1183.3099365234375"/>
+			<zone xml:id="f002_z002" ulx="730.796875" uly="1071.775390625" lrx="1239.771484375" lry="1162.88818359375"/>
+			<zone xml:id="f002_z003" ulx="619.2240600585938" uly="1360.933349609375" lrx="782.8604125976562" lry="1405.5841064453125"/>
+			<zone xml:id="f002_z004" ulx="544.6058959960938" uly="1337.3697509765625" lrx="771.07861328125" lry="1363.551513671875"/>
+			<zone xml:id="f002_z005" ulx="804.5494384765625" uly="1444.677978515625" lrx="842.7312622070312" lry="1497.4051513671875"/>
+		</surface>
+		<surface xml:id="f003" ulx="0" uly="0" lrx="1232" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/4/canvas">
+			<label>2</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/4"/>
+		</surface>
+		<surface xml:id="f004" ulx="0" uly="0" lrx="1256" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/5/canvas">
+			<label>3</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/5"/>
+		</surface>
+		<surface xml:id="f005" ulx="0" uly="0" lrx="1221" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/6/canvas">
+			<label>4</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/6"/>
+		</surface>
+		<surface xml:id="f006" ulx="0" uly="0" lrx="1230" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/7/canvas">
+			<label>5</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/7"/>
+		</surface>
+		<surface xml:id="f007" ulx="0" uly="0" lrx="1251" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/8/canvas">
+			<label>6</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/8"/>
+		</surface>
+		<surface xml:id="f008" ulx="0" uly="0" lrx="1251" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/9/canvas">
+			<label>7</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/9"/>
+		</surface>
+		<surface xml:id="f009" ulx="0" uly="0" lrx="1237" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/10/canvas">
+			<label>8</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/10"/>
+		</surface>
+		<surface xml:id="f010" ulx="0" uly="0" lrx="1218" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/11/canvas">
+			<label>9</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/11"/>
+		</surface>
+		<surface xml:id="f011" ulx="0" uly="0" lrx="1224" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/12/canvas">
+			<label>10</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/12"/>
+		</surface>
+		<surface xml:id="f012" ulx="0" uly="0" lrx="1232" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/13/canvas">
+			<label>11</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/13"/>
+		</surface>
+		<surface xml:id="f013" ulx="0" uly="0" lrx="1252" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/14/canvas">
+			<label>12</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/14"/>
+		</surface>
+		<surface xml:id="f014" ulx="0" uly="0" lrx="1269" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/15/canvas">
+			<label>13</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/15"/>
+		</surface>
+		<surface xml:id="f015" ulx="0" uly="0" lrx="1230" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/16/canvas">
+			<label>14</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/16"/>
+		</surface>
+		<surface xml:id="f016" ulx="0" uly="0" lrx="1225" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/17/canvas">
+			<label>15</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/17"/>
+		</surface>
+		<surface xml:id="f017" ulx="0" uly="0" lrx="1240" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/18/canvas">
+			<label>16</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/18"/>
+		</surface>
+		<surface xml:id="f018" ulx="0" uly="0" lrx="1242" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/19/canvas">
+			<label>17</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/19"/>
+		</surface>
+		<surface xml:id="f019" ulx="0" uly="0" lrx="1237" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/20/canvas">
+			<label>18</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/20"/>
+		</surface>
+		<surface xml:id="f020" ulx="0" uly="0" lrx="1232" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/21/canvas">
+			<label>19</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/21"/>
+		</surface>
+		<surface xml:id="f021" ulx="0" uly="0" lrx="1244" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/22/canvas">
+			<label>20</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/22"/>
+		</surface>
+		<surface xml:id="f022" ulx="0" uly="0" lrx="1270" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/23/canvas">
+			<label>21</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/23"/>
+		</surface>
+		<surface xml:id="f023" ulx="0" uly="0" lrx="1228" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/24/canvas">
+			<label>22</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/24"/>
+		</surface>
+		<surface xml:id="f024" ulx="0" uly="0" lrx="1249" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/25/canvas">
+			<label>23</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/25"/>
+		</surface>
+		<surface xml:id="f025" ulx="0" uly="0" lrx="1267" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/26/canvas">
+			<label>24</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/26"/>
+		</surface>
+		<surface xml:id="f026" ulx="0" uly="0" lrx="1233" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/27/canvas">
+			<label>25</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/27"/>
+		</surface>
+		<surface xml:id="f027" ulx="0" uly="0" lrx="1267" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/28/canvas">
+			<label>26</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/28"/>
+		</surface>
+		<surface xml:id="f028" ulx="0" uly="0" lrx="1247" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/29/canvas">
+			<label>27</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/29"/>
+		</surface>
+		<surface xml:id="f029" ulx="0" uly="0" lrx="1245" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/30/canvas">
+			<label>28</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/30"/>
+		</surface>
+		<surface xml:id="f030" ulx="0" uly="0" lrx="1240" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/31/canvas">
+			<label>29</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/31"/>
+		</surface>
+		<surface xml:id="f031" ulx="0" uly="0" lrx="1264" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/32/canvas">
+			<label>30</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/32"/>
+		</surface>
+		<surface xml:id="f032" ulx="0" uly="0" lrx="792" lry="1276" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/33/canvas">
+			<label>31</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/33"/>
+		</surface>
+		<surface xml:id="f033" ulx="0" uly="0" lrx="1277" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/34/canvas">
+			<label>32</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/34"/>
+		</surface>
+		<surface xml:id="f034" ulx="0" uly="0" lrx="1237" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/35/canvas">
+			<label>33</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/35"/>
+		</surface>
+		<surface xml:id="f035" ulx="0" uly="0" lrx="1228" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/36/canvas">
+			<label>34</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/36"/>
+		</surface>
+		<surface xml:id="f036" ulx="0" uly="0" lrx="1244" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/37/canvas">
+			<label>35</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/37"/>
+		</surface>
+		<surface xml:id="f037" ulx="0" uly="0" lrx="1257" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/38/canvas">
+			<label>36</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/38"/>
+		</surface>
+		<surface xml:id="f038" ulx="0" uly="0" lrx="1232" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/39/canvas">
+			<label>37</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/39"/>
+		</surface>
+		<surface xml:id="f039" ulx="0" uly="0" lrx="1227" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/40/canvas">
+			<label>38</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/40"/>
+		</surface>
+		<surface xml:id="f040" ulx="0" uly="0" lrx="1216" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/41/canvas">
+			<label>39</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/41"/>
+		</surface>
+		<surface xml:id="f041" ulx="0" uly="0" lrx="1241" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/42/canvas">
+			<label>40</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/42"/>
+		</surface>
+		<surface xml:id="f042" ulx="0" uly="0" lrx="1245" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/43/canvas">
+			<label>41</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/43"/>
+		</surface>
+		<surface xml:id="f043" ulx="0" uly="0" lrx="796" lry="1304" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/44/canvas">
+			<label>42</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/44"/>
+		</surface>
+		<surface xml:id="f044" ulx="0" uly="0" lrx="1246" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/45/canvas">
+			<label>43</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/45"/>
+		</surface>
+		<surface xml:id="f045" ulx="0" uly="0" lrx="1218" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/46/canvas">
+			<label>44</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/46"/>
+		</surface>
+		<surface xml:id="f046" ulx="0" uly="0" lrx="1248" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/47/canvas">
+			<label>45</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/47"/>
+		</surface>
+		<surface xml:id="f047" ulx="0" uly="0" lrx="1276" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/48/canvas">
+			<label>46</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/48"/>
+		</surface>
+		<surface xml:id="f048" ulx="0" uly="0" lrx="1276" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/49/canvas">
+			<label>47</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/49"/>
+		</surface>
+		<surface xml:id="f049" ulx="0" uly="0" lrx="1176" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/50/canvas">
+			<label>48a</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/50"/>
+		</surface>
+		<surface xml:id="f050" ulx="0" uly="0" lrx="1218" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/51/canvas">
+			<label>48b</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/51"/>
+		</surface>
+		<surface xml:id="f051" ulx="0" uly="0" lrx="1282" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/52/canvas">
+			<label>49</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/52"/>
+		</surface>
+		<surface xml:id="f052" ulx="0" uly="0" lrx="1167" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/53/canvas">
+			<label>50</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/53"/>
+		</surface>
+		<surface xml:id="f053" ulx="0" uly="0" lrx="1260" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/54/canvas">
+			<label>51</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/54"/>
+		</surface>
+		<surface xml:id="f054" ulx="0" uly="0" lrx="1295" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/55/canvas">
+			<label>52</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/55"/>
+		</surface>
+		<surface xml:id="f055" ulx="0" uly="0" lrx="1267" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/56/canvas">
+			<label>53</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/56"/>
+		</surface>
+		<surface xml:id="f056" ulx="0" uly="0" lrx="1312" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/57/canvas">
+			<label>54</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/57"/>
+		</surface>
+		<surface xml:id="f057" ulx="0" uly="0" lrx="1296" lry="2000" sameAs="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/58/canvas">
+			<label>Rear Pastedown</label>
+			<graphic mimeType="application/json" url="https://brandonhurst01.github.io/Decay-of-Lying/iiif_2/58"/>
+		</surface>
+	</facsimile>
+	<text xml:id="f002_base">
+		<body>
+			<div>
+				<head><pb facs="#f002"/> <milestone facs="#f002_z000" n="1"/><milestone n="NC_35"/><hi change="#StBa" rend="caps">The Decay of Lying:<lb/></hi><del change="#StC" hand="Wilde"><hi change="#StBa" rend="caps">a Dialogue.</hi></del> <add change="#StC" hand="Wilde" place="intentions" rend="small-caps">an Observation.</add><lb/> <hi change="#StBa" rend="small-caps">Scene</hi>.<add change="#StBa" hand="Hart" place="inline" rend="pencil"> --</add> <hi change="StBa" hand="Hart" rend="italic">The Library of a Country House<lb/> in England.</hi><lb/> <hi change="#StBa" rend="small-caps">Persons.</hi><add change="#StBa" hand="Hart" place="inline" rend="pencil"><hi change="#StBa" rend="small-caps"> --</hi></add><hi change="#StBa" rend="small-caps"> Cyril </hi><hi change="#StBa" hand="Hart" rend="italic">and </hi><hi change="#StBa" rend="small-caps">Vivian.</hi><lb/></head>
+				<p><hi rend="italic">Cyril </hi><hi change="StBa" rend="italic">(coming in through the open <lb/>window from the terrace</hi>.). My <lb/>dear Vivian, don't coop yourself up<lb/> all day in the library. It is a <lb/>perfectly lovely afternoon. <add change="StC" hand="Wilde" place="intentions">The air is exquisite. There is a mist upon the woods, like the purple bloom upon a plum.</add> Let us<lb/> go and lie on the grass, and<lb/> smoke cigarettes<add change="StC" hand="Wilde" place="intentions">,</add> and enjoy <add change="StC" hand="Wilde" place="intentions">N</add><del change="StC" hand="Wilde">n</del>ature. <lb/></p>
+				<p><hi rend="italic">Vivian</hi>. Enjoy <add change="StC" hand="Wilde" place="intentions">N</add><del change="StC" hand="Wilde">n</del>ature! <del change="StB" facs="#f002_z001" hand="Wilde" rend="single-stroke">My dear Cyril</del> I<add change="StB" facs="#f002_z002" hand="Wilde" place="above" rend="no_caret"> am glad to say that</add> <lb/>I have entirely lost that faculty. People<lb/> tell us that <add change="StC" hand="Wilde" place="intentions">A</add><del change="StC" hand="Wilde">a</del>rt makes us love<lb/> <add change="StC" hand="Wilde" place="intentions">N</add><del change="StC" hand="Wilde">n</del>ature more than we loved her before<del change="StBa">,</del><add change="StBa" hand="print" place="nc">;</add><lb/> that it reveals <del change="StB" facs="#f002_z003" hand="Wilde" rend="multi-stroke">nature </del><add change="StB" facs="#f002_z004" hand="Wilde" place="above" rend="no_caret">her secrets</add> to us<del change="StBa">,</del><add change="StBa" hand="print" place="nc">;</add> and<lb/> that after a careful study of Corot <lb/>and Constable we see <hi change="StBa" facs="#f002_z005" hand="print" rend="lower-case">T</hi>hings in her<lb/> that had escaped <del change="StC">us.</del> <add change="StC" hand="Wilde" place="intentions">our observation.</add> My own experience<lb/> is that the more we study <add change="StC" hand="Wilde" place="intentions">A</add><del change="StC" hand="Wilde">a</del>t, the<lb/> less we care for <add change="StC" hand="Wilde" place="intentions">N</add><del change="StC" hand="Wilde">n</del>ature. What <add change="StC" hand="Wilde" place="intentions">A</add><del change="StC" hand="Wilde">a</del>rt<lb/> really reveals to us is <add change="StC" hand="Wilde" place="intentions">N</add><del change="StC" hand="Wilde">n</del>ature's<lb/> lack of design, her curious crudities,<lb/> her extraordinary monotony, her<lb/> absolutely unfinished condition. <add change="StC" hand="Wilde" place="intentions">Nature has good intentions, of course, but, as Aristotle once said, she cannot carry them out. </add>When </p>
+			</div>
+		</body>
+	</text>
+	<text xml:id="f003">
+		<body>
+			<p>I look at a landscape I cannot help seeing all its defects. It is fortunate for us, however, that Nature is so imperfect, as otherwise we should have had no art at all. Art is our spirited protest, our gallant attempt to teach Nature her proper place. As for the infinite variety of Nature, that is a <milestone n="Intentions_4"/></p>
+		</body>
+	</text>
+	<text xml:id="f002_diplo">
+		<body>
+			<div>
+				<head><pb facs="#f002"/> <milestone facs="#f002_z000" n="1"/><milestone n="NC_35"/>The Decay of Lying:<lb/> a Dialogue.<lb/> <hi change="#StBa" rend="small-caps">Scene</hi>.<add change="#StBa" hand="Hart" place="inline" rend="pencil"> --</add> <hi change="#StBa" rend="italic">The Library of a Country House<lb/> in England.</hi><lb/> <hi change="#StBa" rend="small-caps">Persons.</hi> <add change="StBa" place="inline">--</add> <hi change="#StBa" rend="smallcaps">Cyril </hi><hi change="#StBa" hand="Hart" rend="italic">and </hi><hi change="#StBa" rend="small-caps">Vivian.</hi><lb/></head>
+				<p><hi rend="italic">Cyril </hi><hi change="StBa" rend="italic">(coming in through the open <lb/>window from the terrace</hi>.). My <lb/>dear Vivian, don't coop yourself up<lb/> all day in the library. It is a <lb/>perfectly lovely afternoon. Let us<lb/> go and lie on the grass, and<lb/> smoke cigarettes and enjoy nature. <lb/></p>
+				<p><hi rend="italic">Vivian</hi>. Enjoy nature! <del change="StB" facs="#f002_z001" hand="Wilde" rend="single-stroke">My dear Cyril</del> I<add change="StB" facs="#f002_z002" hand="Wilde" place="above" rend="no_caret"> am glad to say that</add> <lb/>I have entirely lost that faculty. People<lb/> tell us that art makes us love<lb/> nature more than we loved her before<del change="StBa">,</del><add change="StBa" hand="print" place="nc">;</add><lb/> that it reveals <del change="StB" facs="#f002_z003" hand="Wilde" rend="multi-stroke">nature </del><add change="StB" facs="#f002_z004" hand="Wilde" place="above" rend="no_caret">her secrets</add> to us<del change="StBa">,</del><add change="StBa" hand="print" place="nc">;</add> and<lb/> that after a careful study of Corot <lb/>and Constable we see <hi change="StBa" facs="#f002_z005" hand="print" rend="lower-case">T</hi>hings in her<lb/> that had escaped us. My own experience<lb/> is that the more we study at, the<lb/> less we care for nature. What art<lb/> really reveals to us is nature's<lb/> lack of design, her curious crudities,<lb/> her extraordinary monotony, her<lb/> absolutely unfinished condition. When</p>
+			</div>
+		</body>
+	</text>
+	<text xml:id="f002_intentions">
+		<body>
+			<div>
+				<head><pb facs="#f002"/> <milestone facs="#f002_z000" n="1"/><milestone n="NC_35"/><hi change="#StBa" rend="caps">The Decay of Lying:<lb/></hi><del change="#StC" hand="Wilde"><hi change="#StBa" rend="caps">a Dialogue.</hi></del> <add change="#StC" hand="Wilde" place="intentions" rend="small-caps">an Observation.</add><lb/> <hi change="#StBa" rend="small-caps">Scene</hi>.<add change="#StBa" hand="Hart" place="inline" rend="pencil"> --</add> <hi change="StBa" hand="Hart" rend="italic">The Library of a Country House<lb/> in England.</hi><lb/> <hi change="#StBa" rend="small-caps">Persons.</hi><add change="#StBa" hand="Hart" place="inline" rend="pencil"><hi change="#StBa" rend="small-caps"> --</hi></add><hi change="#StBa" rend="small-caps"> Cyril </hi><hi change="#StBa" hand="Hart" rend="italic">and </hi><hi change="#StBa" rend="small-caps">Vivian.</hi><lb/></head>
+				<p><hi hand="Wilde" rend="italic">Cyril </hi><hi change="#StBa" rend="italic">(coming in through the open <lb/>window from the terrace</hi>.). My <lb/>dear Vivian, don't coop yourself up<lb/> all day in the library. It is a <lb/>perfectly lovely afternoon. <add change="#StC" hand="Wilde" place="intentions">The air is exquisite. There is a mist upon the woods, like the purple bloom upon a plum.</add> Let us<lb/> go and lie on the grass, and<lb/> smoke cigarettes<add change="#StC" hand="Wilde" place="intentions">,</add> and enjoy <add change="#StC" hand="Wilde" place="intentions">N</add><del change="#StC" hand="Wilde">n</del>ature. <lb/></p>
+				<p><hi hand="Wilde" rend="italic">Vivian</hi>. Enjoy <add change="#StC" hand="Wilde" place="intentions">N</add><del change="#StC" hand="Wilde">n</del>ature! I am glad to say that <lb/>I have entirely lost that faculty. People<lb/> tell us that <add change="#StC" hand="Wilde" place="intentions">A</add><del change="#StC" hand="Wilde">a</del>rt makes us love<lb/> <add change="#StC" hand="Wilde" place="intentions">N</add><del change="#StC" hand="Wilde">n</del>ature more than we loved her before;<lb/> that it reveals her secrets to us; and<lb/> that after a careful study of Corot <lb/>and Constable we see <hi change="#StBa" facs="#f002_z005" hand="print" rend="lower-case">T</hi>hings in her<lb/> that had escaped <del change="#StC">us.</del> <add change="#StC" hand="Wilde" place="intentions">our observation.</add> My own experience<lb/> is that the more we study <add change="#StC" hand="Wilde" place="intentions">A</add><del change="#StC" hand="Wilde">a</del>t, the<lb/> less we care for <add change="#StC" hand="Wilde" place="intentions">N</add><del change="#StC" hand="Wilde">n</del>ature. What <add change="#StC" hand="Wilde" place="intentions">A</add><del change="#StC" hand="Wilde">a</del>rt<lb/> really reveals to us is <add change="#StC" hand="Wilde" place="intentions">N</add><del change="#StC" hand="Wilde">n</del>ature's<lb/> lack of design, her curious crudities,<lb/> her extraordinary monotony, her<lb/> absolutely unfinished condition. <add change="#StC" hand="Wilde" place="intentions">Nature has good intentions, of course, but, as Aristotle once said, she cannot carry them out. </add>When</p>
+			</div>
+		</body>
+	</text>
+	<text xml:id="text-1">
+		<body>
+			<p/>
+		</body>
+	</text>
+</TEI>

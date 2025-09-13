@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Versions of "The Decay of Lying"</title>
+                <author>Oscar Wilde</author>
+                <editor role="general" xml:id="BH">Brandon Hurst</editor>
+            </titleStmt>  
+            <publicationStmt>
+                <p>University of Connecticut</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>University of Akron: Herman Muehlstein Rare Book Collection</repository>
+                        <idno>PR5818.d43 1889</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <handDesc>
+                            <handNote xml:id="Wilde">Revisions by Oscar Wilde</handNote>
+                            <handNote xml:id="comp">Revisions made by compositors of the The
+                                Nineteenth Century (Hart, Shaw, Hirscfield, Bailey, Young, Davis,Deeley)</handNote>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><!-- manuscript revisions and genetic stages -->
+                <listChange>
+                    <change xml:id="StA">Stage A: Manuscript draft
+                    </change>
+                    <change xml:id="StB">Stage B: Revisions Made by Oscar Wilde to the Manuscript</change>
+                    <change xml:id="StBa">Stage Ba: Corrections and Changes to Stage B text by the
+                        compositors</change>
+                    <change xml:id="StC">Stage C: Revisions by Wilde to the text prior to
+                        publication in Intentions</change>
+                </listChange>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
