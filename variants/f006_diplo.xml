@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="5" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f006"/><milestone facs="#f006_z000" n="5" unit="folio_number"/><lb/>well speak the truth at<milestone n="intentions_6"/>once. No: the <lb/>politicians won't do,<lb/><lb/><lb/><lb/><lb/><lb/><lb/><note>"Ancient schools of rhetoric located in Leontini in Sicily" (Guy 364)</note><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/> besides, what<lb/> I am pleading for is Lying in<lb/> Art. Shall I read you what I have<lb/> written? It might do you a great<lb/> deal of good.<lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><note facs="#f006_z004" rend="pencil">Typesetters Signature: Shaw</note><hi change="#StB" facs="#f006_z011" hand="#Wilde" rend="underline">Cyril</hi>. Certainly, if you give me a cigarette. Thanks. By the way, what magazine do you intend it for?</p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">Vivian</hi>. For the <hi change="#StB" rend="underline">Retrospective Review</hi>. <note>The revival Vivian refers to is an invention. As Josephine Guy notes, "the original Retrospective Review, founded in 180 and runnign until 1828, dealt with historical and antiquarian subjects; a second Retrospective Review--which (according to Evans) consisted of criticism of, and extracts from, curious and rare books--was briefly published in 1853-4 (Evans 295)" (Guy 364).</note>I <lb/>think I told you we had<lb/> revived it.<lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" facs="#f006_z009" hand="#Wilde" rend="underline">Cyril</hi>. Whom do you mean by 'we'<lb/></p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StB" facs="#f006_z008" hand="#Wilde" rend="underline">Vivian</hi>. Oh, The Tired Hedonists of course.<lb/> It is a club to which I belong. We<lb/> are supposed to wear faded roses in<note>roses were frequently associated with Aestheticism, and particularly Walter Pater (usually satirical; see "Mr Rose" by W.H. Mallock in The New Republic. See Guy 364.</note><lb/> our button-holes when we meet, and to<lb/> have a sort of cult for Domitian.<note>Roman emperor "renowned for cruelty and decadent behavior"; referenced in both Dorian Gray and in letter describing a friend, "perhaps Lord Alfred Douglas" (Guy 364).</note><lb/> I am afraid you are not eligible.<lb/> You are too fond of simple pleasures.<lb/> <milestone n="nc_37"/></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">Cyril</hi>. I should be black-balled on<lb/> the ground of animal spirits, I<lb/> suppose?<lb/> <milestone n="intentions_7"/></p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">Vivian</hi>. Probably. Besides, you are a <lb/>little too old. We dont admit<lb/> anyone <del change="#StBa" facs="#f006_z007" hand="#Wilde" rend="single-stroke">over thirty, as you are</del></p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

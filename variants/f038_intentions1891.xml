@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="37" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f038"/><milestone facs="#f038_z000" n="37" unit="folio_number"/><lb/>died, a few months after <hi change="#StC" facs="#f038_z001" rend="italic">The Newcomes</hi><lb/> had reached a fourth edition, with<lb/> the word "Adsum" on his lips. Shortly<lb/> after Mr<del change="#StD" hand="#comp">.</del> Stevenson published his<lb/> curious psychological story of<lb/> transformation, a friend of mine, called<lb/> Mr<del change="#StD" hand="#comp">.</del> Hyde, was in the north of London,<lb/> and being anxious to get to a<lb/> railway station, took what he<lb/> thought would be a short cut, <lb/>lost his way, and found himself in<lb/> a network of mean, evil-looking<lb/> streets. Feeling rather nervous<add change="#StD" facs="#f038_z007" hand="#comp" place="intentions">,</add> he <del change="#StD" facs="#f038_z008" hand="#Wilde">was </del><add change="#StD" facs="#f038_z008" hand="#Wilde" place="intentions">began to</add><milestone n="intentions_30"/> <lb/>walk<del change="#StD" facs="#f038_z009" hand="#Wilde">ing</del> extremely fast, when suddenly<lb/> out of an archway ran a child right<lb/> between his legs. It fell on<lb/> the pavement, he tripped over it, and <lb/>trampled upon it. <lb/> Being of course very much<lb/> frightened and <del change="#StD" facs="#f038_z014" hand="#Wilde">not </del>a little hurt, it <lb/>began to scream, and in a few<lb/> seconds the whole street was full<lb/> of rough people who came pouring out of the houses like ants.<lb/>They surrounded him, and <lb/>asked him his name. He was just<lb/> about to give it when he suddenly<lb/> remembered the <lb/>opening incident in Mr<del change="#StD" hand="#comp">.</del> Stevenson's<lb/> story. He was so filled with horror<lb/> at having realised in his own person<lb/> that terrible <add change="#StD" facs="#f038_z024" hand="#Wilde" place="intentions">and well written </add>scene, <milestone facs="#f038_z023" unit="caret"/>and at having done<lb/> accidentally<add change="#StD" facs="#f038_z025" hand="#Wilde" place="intentions">, though in fact,</add> what the Mr<del change="#StD" hand="#comp">.</del> Hyde of fiction</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

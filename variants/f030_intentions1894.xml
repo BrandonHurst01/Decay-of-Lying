@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="29" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f030"/><milestone facs="#f030_z000" n="30" unit="folio_number"/><lb/>for all their much-boasted science,<lb/> has had the ordinary courage to tell <lb/>us. Whatever was his name or race, <lb/>he certainly was the true founder of<lb/> social intercourse. For the <lb/>aim of the liar is simply to charm,<lb/> to delight, to give pleasure. He is <lb/>the very basis of civilized society, and<lb/> without him a dinner party, even at<lb/> the mansions of the great, is as dull<lb/> as a lecture at the Royal Society, or <lb/>a debate at the Incorporated Authors, or one of Mr Burnand's farcical comedies.<lb/></p>
+					<p>"Nor will he be welcomed<lb/> by society alone. Art, breaking from the <lb/>prison-house of realism, will run to <lb/>greet him, and will kiss his false, <lb/>beautiful lips, knowing that he alone<lb/> is in possession of the great secret<lb/> of all her manifestations, the secret <lb/>that Truth is entirely and absolutely<lb/> a matter of style; While Life--poor, <lb/>probable, uninteresting human life--<lb/>tired of repeating herself for the<lb/> benefit of Mr.Herbert Spencer, scientific<lb/> historians, and the compilers of statistics<lb/> in general, will follow meekly after<lb/> him, and try to reproduce, in her own<lb/> simple and untutored way, some of the<lb/> marvels of which he talks. <lb/></p>
+					<p>"No doubt there will always be critics<lb/> who, like a certain writer in the<lb/><hi rend="italic">Saturday Review</hi>, will gravely censure<lb/> the teller of fairy tales for his defective</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

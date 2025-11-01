@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="42" type="r">
+				<sp who="#C.">
+					<p><pb facs="#f043"/><milestone facs="#f043_z000" unit="folio_number"/><lb/> temper of its age, the spirit of<milestone n="nc_51"/> its<lb/> time, the moral and social conditions<lb/> that surround it, and under whose<lb/> influence it is produced.<lb/></p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">V</hi><add change="#StD" hand="#Wilde" place="intentions"><hi rend="italic">ivian</hi></add>. Certainly not! <hi change="#StC" rend="italic">Art never </hi><lb/><hi change="#StC" rend="italic">expresses anything</hi><milestone n="intenions_36"/><hi change="#StC" rend="italic">but </hi><del change="#StD" facs="#f043_z001" hand="#Wilde"><hi change="#StC" rend="italic">herself</hi></del><add change="#StD" facs="#f043_z001" hand="#Wilde" place="intentions">itself</add>.<note facs="#f043_z004" rend="pencil">blue pencil parenthesis</note>This <lb/>is the principle of my new æsthetics;<lb/>and it is this, <del change="#StD" facs="#f043_z008" hand="#Wilde">and not any </del><add change="#StD" facs="#f043_z008" hand="#Wilde" place="intentions">more than that</add> vital <lb/>connection between form and substance,<lb/> on which Mr. Pater <del change="#StD" facs="#f043_z009" hand="#Wilde">fancies </del><add change="#StD" facs="#f043_z009" hand="#Wilde" place="intentions">dwells</add>, that makes<lb/> music the <del change="#StD" facs="#f043_z011" hand="#Wilde">true </del>type of all <lb/>the arts.<note facs="#f043_z012">Blue pencil line.</note> Of course, nations and <lb/>individuals, with that healthy natural<lb/> vanity which is the secret of <del change="#StD" facs="#f043_z016" hand="#Wilde">life </del><add change="#StD" facs="#f043_z016" hand="#Wilde" place="intentions">existence</add>, are<lb/> always under the impression that it is<lb/> of them that the Muses are talking,<lb/> always trying to find in the calm <lb/>dignity of imaginative art some mirror <lb/>of their own turbid passions, always<lb/> forgetting that the singer of life is<lb/> not Apollo, but Marsyas. Remote from<lb/> reality, and with her eyes turned away <lb/>from the shadows of the cave, Art <lb/>reveals her own perfection, and the<lb/> wondering crowd that watches the<lb/> opening of the marvellous, many-petalled<lb/> rose fancies that it is its own history<lb/> that is being told to it, its own spirit<lb/> that is finding expression in a new<lb/> form. But it is not so. The highest<lb/> art rejects the burden of the human spirit,<lb/> and gains more from a new medium or a<lb/> fresh material than she does from any<lb/> enthusiasm for art, or from any lofty</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

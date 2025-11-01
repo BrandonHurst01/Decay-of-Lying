@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="1" type="r">
+				<head><pb facs="#f002"/><milestone facs="#f002_z000" n="1" unit="folio_number"/><milestone n="NC_35"/><lb/><hi change="#StC" hand="#comp" rend="case(allcaps)">The Decay of Lying:<lb/></hi><hi change="#StC" rend="case(allcaps)">a Dialogue.</hi><lb/><hi change="#StC" hand="#comp" rend="small-caps">Scene</hi>.<add change="#StC" hand="Hart" place="inline" rend="pencil"> --</add><hi change="#StC" hand="#comp" rend="italic">The Library of a Country House<lb/> in England. </hi><lb/><hi change="#StC" hand="#comp" rend="small-caps">Persons.</hi><add change="#StBa" hand="Hart" place="inline" rend="pencil"><hi change="#StC" hand="#comp" rend="small-caps"> --</hi></add><hi change="#StC" hand="#comp" rend="small-caps"> Cyril </hi><hi change="#StC" hand="#comp" rend="italic">and </hi><hi change="#StBa" rend="small-caps">Vivian.</hi><lb/></head>
+				<sp who="#C.">
+					<p><hi change="#StC" hand="#comp" rend="italic">Cyril (coming in through the open <lb/>window from the terrace</hi>.). My <lb/>dear Vivian, don't coop yourself up<lb/> all day in the library. It is a <lb/>perfectly lovely afternoon. Let us<lb/> go and lie on the grass, and<lb/> smoke cigarettes and enjoy ature. <lb/></p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StC" hand="#comp" rend="italic">Vivian</hi>. Enjoy nature! <del change="#StBa" facs="#f002_z001" hand="#Wilde" rend="single-stroke">My dear Cyril</del> I<add change="#StBa" facs="#f002_z002" hand="#Wilde" place="above" rend="no_caret"> am glad to say that</add> <lb/>I have entirely lost that faculty. People<lb/> tell us that art makes us love<lb/> nature more than we loved her before<del change="#StC" hand="#comp">,</del><add change="#StC" hand="#comp" place="nc">;</add><lb/> that it reveals <del change="#StBa" facs="#f002_z003" hand="#Wilde" rend="multi-stroke">nature </del><add change="#StBa" facs="#f002_z004" hand="#Wilde" place="above" rend="no_caret">her secrets</add> to us<del change="#StC" hand="#comp">,</del><add change="#StC" hand="#comp" place="nc">;</add> and<lb/> that after a careful study of Corot <lb/>and Constable we see <del change="#StC" facs="#f002_z005" hand="#comp">T</del><add change="#StC" facs="#f002_z005" hand="#comp" place="nc">t</add>hings in her<lb/> that had escaped us. My own experience<lb/> is that the more we study at, the<lb/> less we care for nature. What art<lb/> really reveals to us is nature's<lb/> lack of design, her curious crudities,<lb/> her extraordinary monotony, her<lb/> absolutely unfinished condition. When</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

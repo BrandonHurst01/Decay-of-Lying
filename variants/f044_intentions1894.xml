@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="43" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f044"/><milestone facs="#f044_z000" n="43" unit="folio_number"/><lb/>passion, or from any great <milestone facs="#f044_z001" unit="caret"/>awakening of the <lb/>human conscious ness. She develops <lb/>purely on her own lines. She is not <lb/>symbolic of any age. It is the ages<lb/> that are her symbols<lb/>.</p>
+					<p>Even those who hold that Art is <lb/>representative of time and place and<lb/> people, cannot help admitting that<lb/> the more imitative an art is, the<lb/> less it represents to us the<lb/> spirit of its age. The evil faces of<lb/> the Roman emperors look <del>at </del>out at<lb/> us from the foul porphyry and spotted<lb/> jasper in which the realistic<lb/> artists of the day delighted to work,<lb/> and we fancy that in those cruel<lb/> lips and heavy sensual jaws we <lb/>can find the secret of the ruin of<lb/> the Empire. But<milestone n="intentions_37"/>it was not so. <lb/>The vices of Tiberius could not destroy<lb/> that supreme civilization, any more than<lb/> the virtues of the Antonines could save<lb/> it. It fell for other, for less interesting reasons.<lb/> The sibyls and prophets of<milestone facs="#f044_z020" unit="caret"/> the Sistine may<lb/> indeed serve to interpret for some that<lb/> new birth of the emancipated spirit that<lb/> we call the Renaissance; but what<lb/> do the drunken boors and brawling<lb/> peasants of Dutch art tell us about<lb/> the great soul of Holland? The more<lb/> abstract, the more ideal an art is, <lb/>the more it reveals to us the temper of</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

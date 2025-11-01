@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="46" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f047"/><milestone facs="#f047_z000" n="46" unit="folio_number"/><lb/>Or, to return again to the past, take as another instance the ancient Greeks. Do you think that Greek<lb/> art ever tells us what the Greek <lb/>people are like? Do you believe that the Athenian women were like the stately<lb/> dignified figures of the Parthenon<lb/> frieze, or like those marvellous <lb/>goddesses who sat in the triangular pediments of the same building? If you<lb/> judge from the art, they certainly were so.</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

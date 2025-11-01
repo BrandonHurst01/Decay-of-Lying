@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="39" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f040"/><milestone/><lb/>wear the most horsey clothes, and<lb/> talk about nothing but betting. she was<lb/> a kind of Proteus, and <add change="#StBa" facs="#f040_z002" hand="#Wilde" place="above inline" rend="caret">as much</add><milestone facs="#f040_z002" unit="caret"/> a failure in all<lb/> her transformations as the sea-god was <lb/>when Odysseus got hold of <milestone n="nc_50"/>him. One<lb/> day a serial began in one of the <note facs="#f040_z006">The seemingly lighter ink suggests that "French" was inserted later.</note><add change="#StBa" facs="#f040_z006" hand="#Wilde" place="inline margin" rend="no_caret">French</add><lb/> magazines. At that time I used to<lb/> read serial stories, and I well remember<lb/> the shock of surprise I felt when I<lb/> came to the description of the heroine.<lb/> She was so like my friend that I <lb/>brought her the magazine, and she<lb/> recognised herself in it immediately<add change="#StC" facs="#f040_z007" hand="#comp" place="nc">,</add><lb/> and seemed fascinated by the resemblance.<lb/> I should tell you, by the way, that the<lb/> story was translated from the Russian , so<lb/> that the author had not taken his type<lb/> from my friend. Well, to cut put the<lb/> matter briefly, some months afterwards<lb/> I was in Venice, and finding the<lb/> magazine in the reading-room of the <del change="#StC" facs="#f040_z010" hand="#comp">H</del><add change="#StC" facs="#f040_z010" hand="#comp" place="nc">h</add>otel<add change="#StC" facs="#f040_z010" hand="#comp" place="nc">,</add> I took it up casually to see what had<lb/> become of the heroine. It was a most <lb/>piteous tale, as the heroine had ended<lb/> by running away with a man inferior<lb/> to her<add change="#StC" facs="#f040_z013" hand="#comp" place="nc">,</add> not merely in social station<lb/>, but in character and intellect also. I wrote<lb/> to my friend that evening and added<lb/> a postscript to the effect that her<lb/> double<milestone n="intentions_32"/>had behaved in a very silly<lb/> manner. I don't know why I wrote <lb/>but I remember I had a sort of <lb/>dread over me that she might do the</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

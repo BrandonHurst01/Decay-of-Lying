@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="35" type="r">
+				<sp>
+					<p><pb facs="#f036"/><milestone facs="#f036_z000" n="35" unit="folio_number"/><lb/>the stalls of unfortunate applewomen,<lb/>break into sweet-shops at night, and <lb/>alarm old gentlemen<milestone facs="#f036_z003" unit="caret"/>who are returning home from the city by leaping out<lb/> on them in suburban lanes, with black masks and unloaded <milestone facs="#f036_z007" unit="caret"/>revolvers.<lb/> This interesting<lb/> phenomenon, which always occurs after<lb/> the appearance of a new edition of <lb/>either of the books I have alluded to, is<lb/> usually attributed to the influence of<lb/> literature on the imagination. But this<lb/> is a mistake. The imagination is<lb/> essentially creative, and always seeks for<lb/> a new form. The boy-burglar is <milestone facs="#f036_z012" unit="enclosure"/>simply the<lb/> inevitable result of life's imitative<lb/> instinct. He is Fact, occupied as Fact<lb/> usually is, with trying to<lb/> reproduce Fiction, and what we see in<lb/> him is repeated on an extended scale<lb/> throughout the whole of life. Schopenhauer<lb/> has analysed the pessimism that <lb/>characterises modern thought, but Hamlet<lb/> invented it. The world has become sad <lb/>because a puppet was once melancholy.<lb/> The Nihilist, that strange martyr who has<lb/> no <milestone facs="#f036_z019" unit="caret"/>faith, who goes to the stake without <lb/> enthusiasm, and dies for what he<lb/> does not believe in, is a purely literary <lb/>product. He was invented by Tourgénieff,<lb/> and completed by Dostoieffski. Robespierre<lb/> came out of the pages of Rousseau as <lb/>surely as the People's Palace rose out of <lb/>the <hi change="#StC" facs="#f036_z025" rend="italic">débris </hi>of a novel. Literature always<lb/> anticipates life. It does not copy <milestone facs="#f036_z026" unit="caret"/>it, but</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

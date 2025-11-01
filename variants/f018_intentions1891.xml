@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="17" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f018"/><milestone facs="#f018_z000" n="17" unit="folio_number"/><lb/>no more a realist than Holbein <milestone facs="#StCa" unit="enclosure"/>was. He<lb/> created life, he did not copy it. I <lb/>admit, however, that he set far too<lb/> high a value on modernity of form,<lb/> and that , consequently, there is<lb/> no book of his that, as an<lb/> artistic masterpiece, can rank with<lb/> <hi change="#StC" facs="#f018_z003" hand="#comp" rend="underline">Salammbô</hi> or <hi change="#StC" facs="#f018_z004" hand="#comp" rend="underline">Esmond</hi>, or <hi change="#StC" facs="#f018_z005" hand="#comp" rend="underline">The</hi><lb/><hi change="#StC" facs="#f018_z005" hand="#comp" rend="underline"> Cloister and the Hearth</hi>, or the <hi change="#StB" facs="#f018_z006 #f018_z007" hand="#Wilde" rend="underline">Vicomte</hi><lb/><hi change="#StB" facs="#f018_z006 #f018_z007" hand="#Wilde" rend="underline"> de Bragelonne</hi>.<lb/><note facs="#f018_z014" rend="pencil">Typesetters Signature: Hirschfield</note></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">C</hi><add change="#StD" hand="#Wilde" place="intentions"><hi rend="italic">yril</hi></add><hi change="#StB" hand="#Wilde" rend="underline">.</hi><lb/>Do you object to modernity of<lb/> form<add change="#StD" facs="#f018_z016" place="intentions">,</add> then<del change="#StD" facs="#f018_z015">?</del><add change="#StD" facs="#f018_z015" place="intentions">!</add> <lb/></p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">V</hi><add change="#StD" hand="#Wilde" place="intentions"><hi rend="italic">ivian</hi></add>. <lb/>Yes. It is a huge price to pay<lb/> for a very poor result. Pure <lb/>modernity of form is always somewhat <milestone facs="#f018_z017" unit="caret"/>vulgarising.<lb/> It cannot help being so. The public<lb/> imagine that, because they are interested<lb/> in their immediate surroundings, <add change="#StD" facs="#f018_z020" hand="#Wilde" place="intentions">A</add><del change="#StD" facs="#f018_z020">a</del>rt<lb/> should be interested in them also, and<lb/> should take them as her subject-<lb/>matter. But the mere fact that they<lb/> are interested in these things makes<lb/> them unsuitable subjects for <add change="#StD" facs="#f018_z022" place="intentions">A</add><del change="#StD" facs="#f018_z022">a</del>rt. The<lb/> only beautiful things, as somebody<lb/>once said, are the things that do not <lb/>concern us. As long as a thing is <lb/>useful or necessary<milestone facs="#f018_z025" unit="caret"/> to us, or affects us in any <lb/>way, either for pain or<milestone facs="#f018_z026" unit="caret"/>for pleasure, or <lb/>appeals strongly to our sympathies, or is</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

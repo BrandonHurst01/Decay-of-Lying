@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="23" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f024"/><milestone facs="#f024_z000" n="23" unit="folio_number"/><lb/><add change="#StD" place="intentions">"</add><del change="#StD" hand="#comp">'</del>But <add change="#StD" facs="#f024_z008" place="intentions">L</add><del change="#StD" facs="#f024_z008">l</del>ife soon shattered the perfection of the <lb/>form. Even in Shakespeare we can <lb/>see the beginning of the end.<note facs="#f024_z004">An exclamation mark or full stop rendered as flourish connected to "end" is printed as full stop in NC (Bristow and Mitchell 136).</note> It shows <lb/>itself by the gradual breaking up <lb/>of the blank-verse <milestone facs="#f024_z007" unit="enclosure"/>in the later plays, by the predominance<lb/> given to prose, and by the over-importance <lb/>assigned to characterisation. The passages<lb/> in Shakespeare--and they are many--<lb/>where the language is uncouth, vulgar, <lb/>exaggerated, fantastic, obscene even, <lb/>are entirely due to <add change="#StD" facs="#f024_z011" place="intentions">L</add><del change="#StD" facs="#f024_z011">l</del>ife calling for <lb/>an echo of her own voice, and rejecting<lb/><milestone n="intentions_20"/>the intervention of beautiful style, through <lb/>which alone <del change="#StD" facs="#f024_z012" hand="#Wilde">it </del>should <add change="#StD" facs="#f024_z012" hand="#Wilde" place="intentions">Life </add>be <del change="#StD" facs="#f024_z013" hand="#Wilde">allowed </del><add change="#StD" facs="#f024_z013" hand="#Wilde" place="inspace">suffered </add>to<lb/> find expression. Shakespeare is not by <lb/>any means a flawless artist. He<lb/> is too fond of going directly to life,<lb/> and borrowing life's natural utterance<lb/> He forgets that when <add change="#StD" place="intentions"><hi change="#StC">A</hi></add><del change="#StD"><hi change="#StC">a</hi></del><hi change="#StC">rt surrenders </hi><lb/><hi change="#StC">her imaginative medium she surrenders everything</hi>. Goethe says somewhere--<lb/><note facs="#f024_z017" rend="pencil">"Printer's pencil mark with illegible word at start of line" (Bristow and Mitchell 136). Mark signifies indentation, line break, and smaller typeset for quote.</note></p>
+					<p>
+						<hi change="#StC" facs="#f024_z001" rend="small">
+							<q facs="#f024_z001" source="Goethe_Sonnet">In der Beschrânkung zeigt sich erst der Meister,</q>
+						</hi>
+						<lb/>
+					</p>
+					<p><del change="#StD">"</del><add change="#StD" place="intentions">'</add><q>It is in working within limits that the<lb/> master reveals himself</q>,' and the limitation,<lb/> the very condition of any art is style.<lb/> However, we <del change="#StD" facs="#f024_z019" hand="#Wilde">will </del><add change="#StD" facs="#f024_z019" hand="#Wilde" place="intentions">need </add>not linger any longer<lb/> over Shakespeare's realism. <del change="#StD" facs="#f024_z020">'</del><hi change="#StD" facs="#f024_z020" rend="italic">The<milestone n="nc_44"/> Tempest</hi> is the <del change="#StD" facs="#f024_z022" hand="#Wilde">best</del> <add change="#StD" facs="#f024_z022" hand="#Wilde" place="intentions">most perfect</add> of palinodes. All<lb/> that we desired to point out was,<lb/> that the magnificent work of the<lb/> Elizabethan and Jacobean artists contained</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="20" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f021"/><milestone/><lb/>the red blood coursing through her veins;<lb/>they will <del change="#StBa" facs="#f021_z003" hand="#Wilde" rend="single-stroke">lend </del><add change="#StBa" facs="#f021_z004" hand="#Wilde" place="above" rend="no_caret">give </add>her feet with swiftness and<lb/> make her hand strong.' <add change="#StBa" hand="#Wilde" place="above inline" rend="caret">But</add>, <milestone facs="#f021_z005" unit="caret"/>Alas! we are<lb/> mistaken in our amiable and well-meaning<lb/> efforts. Nature is always behind the<lb/> age, And as for Life she is the solvent<lb/> that breaks up Art, the enemy that lays<lb/> waste her house."<lb/><note facs="#f021_z001" rend="pencil">Typesetter's Signature: Bailey</note></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">Cyril.</hi> What do you mean by saying<lb/> that Nature is always behind the age?</p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">Vivian</hi>. Well, perhaps that is rather <lb/>cryptic. What I mean is this. If<lb/> we take naature to mean natural simple<lb/> instinct as opposed to self-conscious<lb/> culture, the work produced under <del change="#StB" facs="#f021_z011" hand="#Wilde" rend="single-stroke">her </del>this<lb/> influence is always old-fashioned, antiquated, <milestone facs="#f021_z012" unit="guiding_line"/><add change="#StBa" facs="#f021_z012" hand="#Wilde" place="above inline" rend="caret">and </add>out of date. If on the other hand we<lb/> regard Nature as the collection of <lb/>phenomena external to man, people only<lb/> <del change="#StBa" facs="#f021_z014" hand="#Wilde" rend="single-stroke">find </del><add change="#StBa" facs="#f021_z017" hand="#Wilde" place="above" rend="no_caret">discover </add>in her what they bring to her. She<lb/> has no suggestions of her own. Wordsworth <lb/>went to the Lakes, but he was never a Lake-poet. He found in stones the<lb/> sermons he had already hidden there. He <lb/>went moralizing about the district, but <lb/>his good work as produced when he <lb/>returned, not to Nature but to Poetry.<lb/> Poetry gave him "Laodamia," and <del change="#StB" facs="#f021_z023 #f021_z022" hand="#Wilde" rend="multi-stroke">Nature </del><lb/><del change="#StB" facs="#f021_z023 #f021_z022" hand="#Wilde" rend="multi-stroke">gave him 'Peter Bell'. </del>and the fine sonnets,<lb/> and the 'Ode to Immortality"<del>, and</del> Nature<lb/> gave him "Martha Ray" and "Peter Bell."</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

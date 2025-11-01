@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="48A" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f049"/><milestone facs="#f049_z000" n="48A" unit="folio_number"/><note facs="#f049_z001" rend="blue_pencil">"See 48B" and "48V" in blue pencil.</note><lb/>of our modern portrait painters<lb/><lb/>never paint what they see.<hi change="#StC" rend="italic"> They <lb/>paint what the public sees, and the<lb/> public never sees anything. </hi><lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" rend="underline">Cyril</hi><hi change="#StB">.</hi> Well after that I think I<lb/>would like to hear the end of your<lb/> article.<lb/></p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StC" rend="italic underline">V</hi><hi change="#StC" rend="underline">ivian</hi>. <lb/>With pleasure. <del change="#StBa" facs="#f049_z005" hand="#Wilde" rend="multi-stroke">Here it is.</del><lb/><del change="#StBa" facs="#f049_z005" hand="#Wilde" rend="multi-stroke"> "What we have to do, what at any</del><lb/><del change="#StBa" facs="#f049_z005" hand="#Wilde" rend="multi-stroke"> rate is our duty to do, is to revive</del><lb/><del change="#StBa" facs="#f049_z005" hand="#Wilde" rend="multi-stroke"> this old art of Lying. Much, of course,</del><lb/><del change="#StBa" facs="#f049_z005" hand="#Wilde" rend="multi-stroke"> may be done in the way of educating</del><lb/><del change="#StBa" facs="#f049_z005" hand="#Wilde" rend="multi-stroke"> the public by amateurs in the domsestic</del><lb/><del change="#StBa" facs="#f049_z005" hand="#Wilde" rend="multi-stroke"> circle, at literary lunches, and at"</del><lb/>Whether it will do any good I really<lb/> cannot say. We are certainly the<lb/> dullest and most prosaic century possible.<lb/> Why, even <del change="#StAb" facs="#f049_z009" hand="#Wilde">Sleep herself has not escaped the baneful influences of out time. She</del> <add change="#StB" facs="#f049_z009 #f049_z007" hand="#Wilde" place="inline">Sleep has played us false, <del change="#StBa" facs="#f049_z007" hand="#Wilde" rend="mulit-stroke">and </del><lb/><del change="#StBa" facs="#f049_z007" hand="#Wilde" rend="mulit-stroke">sends us her messenger no longer </del><lb/><del change="#StBa" facs="#f049_z007" hand="#Wilde" rend="mulit-stroke">through the gates of</del> and</add> has closed <lb/>up the gates of ivory, and opened the<lb/> gates of horn. The dreams of the<lb/> great middle classes of this country, as <lb/>recorded in Mr. Myers's two bulky <lb/>volumes on the subject and in the <lb/>Transactions of the Physical Society, are<lb/> the most depressing things that I have ever <lb/>read. There is not even a fine <lb/>nightmare among them. There are <lb/>commonplace<add change="#StB" facs="#f049_z011" hand="#Wilde" place="inline">, sordid,</add> and probable . As</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

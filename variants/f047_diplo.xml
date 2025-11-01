@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="46" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f047"/><milestone facs="#f047_z000" n="46" unit="folio_number"/><lb/> take the Greeks. Do you think that Greek<lb/> art ever tells us what the Greek <lb/>people are like? <add change="#StB" facs="#f047_z002" hand="#Wilde" place="inline">Do you believe </add>that the Athenian women were like the stately<lb/> dignified figures of the Parthenon<lb/> frieze, or like those marvellous <lb/>goddesses <del change="#StAb" facs="#f047_z004" hand="#Wilde">that sit in the triangular pediment? </del><add change="#StB" facs="#f047_z004" hand="#Wilde" place="inline">who sat in the triangular pediments of the same building</add> If you<lb/> judge from the art they certainly were so.</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

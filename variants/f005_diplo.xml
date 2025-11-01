@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="4" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f005"/><milestone facs="#f005_z000" n="5" unit="folio_number"/><lb/><hi change="#StB" facs="#f005_z001" hand="#Wilde" rend="underline">Vivian</hi>. Who wants to be consistent?<note>See also "The Critic as Artist": "we are never more true to ourselves than when we are inconsistent" (Schroeder 27).</note><lb/> The dullard and the doctrinaire.<lb/> the tedious people who carry out their<lb/> principles to the bitter end of action, <add change="#StBa" facs="#f005_z008" hand="#Wilde" place="above" rend="caret">to </add><milestone facs="#f005_z009" unit="caret"/>the <hi change="#StB" facs="#f005_z006" hand="#Wilde" rend="italic">reductio ad absurdum</hi> of practice. Not<lb/> I. Like Emerson, I write over the door<lb/> of my library the word " "Whim."<note>A reference to Ralph Waldo Emerson's "Self-Reliance." In the essay, Emerson writes that the two "terrors" of self-reliance are conformity and consistency. He writes: "The other terror that scares us from self-trust is our consistency; a reverence for our past act or word, because the eyes of others have no other data for computing our orbit than our past acts, and we are loath to disappoint them. . . A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines. With consistency a great soul has simply nothing to do. He may as well concern himself with his shadow on the wall. Speak what you think now in hard words, and to-morrow speak what to-morrow thinks in hard words again, though it contradict every thing you said to-day.--'Ah, so you shall be sure to be misunderstood.'--Is it so bad, then, to be misunderstood? Pythagoras was misunderstood, and Socrates, and Jesus, and Luther, and Copernicus, and Galileo, and Newton, and every pure and wise spirit that ever took flesh. To be great is to be misunderstood." Guy notes that Wilde frequently referenced Emerson throughout his career, and even requested a volume of his essays while in prison.</note> Besides<lb/> my article is really a most salutary<lb/> and valuable warning. If it is<lb/> attended to, there may be a new<lb/> Renaissance of Art.<note>See also Wilde's 1882 lecture "The English Renaissance of Art" for a similar argument (Guy 363).</note><lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" facs="#f005_z002" hand="#Wilde" rend="underline">Cyril</hi>. What is the subject.<lb/></p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StB" facs="#f005_z003" hand="#Wilde" rend="underline">Vivian</hi>. I intend to call it 'The Decay<lb/> of Lying: A Protest.'<lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" facs="#f005_z004" hand="#Wilde" rend="underline">Cyril</hi>. <del change="#StBa" facs="#f005_z011" hand="#Wilde" rend="multi-stroke">The decay of </del>Lying! I should <lb/>have thought that our politicians kept<lb/> up that <del change="#StBa" facs="#f005_z012" hand="#Wilde" rend="single-stroke">art </del>habit.<lb/></p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StB" facs="#f005_z005" hand="#Wilde" rend="underline">Vivian</hi>. I assure you that they do not. They<lb/> never rise beyond the level of<lb/> misrepresentation, and actually condescend<lb/> to prove, to discuss, to argue. How <lb/>different from the temper of the true<lb/> liar with his frank fearless statements,<lb/> his superb irresponsibility, his healthy<lb/> natural disdain of proof of any<lb/> kind. After all, what is a fine<lb/> lie? Simply that which is its own<lb/> evidence.<note>Schroeder suggests this is a reformulation of Byron's Don Juan, Canto XI, stanza 37: "And, after all, what is alie? 'Tis but /The truth in masquerade."</note> If a man is sufficiently<lb/> unimaginative to produce evidence in<lb/> support of a lie he might just as</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

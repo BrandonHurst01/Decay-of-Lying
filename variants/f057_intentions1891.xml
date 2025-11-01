@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StC" n="55" type="v">
+				<p><pb facs="#f057"/><lb/><note facs="#f057_z000" rend="pencil">“B3” is written in pencil, upside down</note><lb/>19th O.W.<note facs="#f057_z001" rend="pencil">“19th O.W.” is written in large cursive hand</note></p>
+			</div>
+		</body>
+	</text>
+</TEI>

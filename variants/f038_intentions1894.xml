@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="37" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f038"/><milestone facs="#f038_z000" n="37" unit="folio_number"/><lb/>died, a few months after <hi change="#StC" facs="#f038_z001" rend="italic">The Newcomes</hi><lb/> had reached a fourth edition, with<lb/> the word "Adsum" on his lips. Shortly<lb/> after Mr<add change="#StE" hand="#comp" place="intentions_1894">.</add> Stevenson published his<lb/> curious psychological story of<lb/> transformation, a friend of mine, called<lb/> Mr<add change="#StE" hand="#comp" place="intentions_1894">.</add> Hyde, was in the north of London,<lb/> and being anxious to get to a<lb/> railway station, took what he<lb/> thought would be a short cut, <lb/>lost his way, and found himself in<lb/> a network of mean, evil-looking<lb/> streets. Feeling rather nervous, he began to<milestone n="intentions_30"/> <lb/>walk extremely fast, when suddenly<lb/> out of an archway ran a child right<lb/> between his legs. It fell on<lb/> the pavement, he tripped over it, and <lb/>trampled upon it. <lb/> Being of course very much<lb/> frightened and a little hurt, it <lb/>began to scream, and in a few<lb/> seconds the whole street was full<lb/> of rough people who came pouring out of the houses like ants.<lb/>They surrounded him, and <lb/>asked him his name. He was just<lb/> about to give it when he suddenly<lb/> remembered the <lb/>opening incident in Mr<add change="#StE" hand="#comp" place="intentions_1894">.</add> Stevenson's<lb/> story. He was so filled with horror<lb/> at having realised in his own person<lb/> that terrible and well written scene, <milestone facs="#f038_z023" unit="caret"/>and at having done<lb/> accidentally, though in fact, what the Mr<add change="#StE" hand="#comp" place="intentions_1894">.</add> Hyde of fiction</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

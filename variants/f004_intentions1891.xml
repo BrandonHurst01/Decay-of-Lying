@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="3" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f004"/><milestone facs="#f004_z000" n="3" unit="folio_number"/><lb/>Egotism itself, which is so necessary<lb/> to a proper sense of human dignity, is <del change="#StD" hand="#Wilde">absolutely </del><add change="#StD" hand="#Wilde" place="intentions">entirely</add> the result of indoor life.<lb/> Out of doors one becomes abstract and<lb/> impersonal.<milestone n="nc_36"/> One's individuality absolutely<lb/> leaves one. And then <add change="#StD" hand="#Wilde" place="intentions">N</add><del change="#StD" hand="#Wilde">n</del>ature is so<lb/> indifferent, so unappreciative. Whenever<lb/> I am walking in the park<milestone facs="#f004_z009"/> here, I always<lb/> feel that I am no more to <add change="#StD" hand="#Wilde" place="intentions">her </add><del change="#StD" facs="#f004_z011" hand="#Wilde">nature</del><del>her </del>than<lb/> the cattle that browse on the slope, or<lb/> the burdock that blooms in the ditch.<lb/> Nothing is more evident than that Nature<lb/> hates M<del change="#StD" hand="#Wilde">m</del>ind. Thinking is the most<lb/> unhealthy thing in the world, and<lb/> people die of it just as <add change="#StD" hand="#Wilde" place="intentions">they die</add> of any<lb/> other disease. Fortunately, in England at<lb/> <add change="#StD" hand="#Wilde" place="intentions">any rate</add><del change="#StD" facs="#f004_z012" hand="#Wilde"> least</del>, <add change="#StD" hand="#Wilde" place="intentions">thought</add> <del change="#StD" facs="#f004_z013" hand="#Wilde">it </del>is not catching. Our splendid<lb/> physique as a people is entirely due<lb/> to our national stupidity. I only hope we shall be able to keep this<lb/> great <milestone facs="#f004_z017"/>historic bulwark <milestone n="Intentions_5"/> of our happiness<milestone facs="#f004_z019"/> for many years to come, but<lb/> I am afraid <milestone facs="#f004_z021"/>that we are beginning to be over-educated;<note>Guy suggests that this may be a reference to the ongoing discourse on education reforms taking place in the Nineteenth Century. See also Guy, “Self-Plagiarism, Creativity and Craftsmanship in Oscar Wilde.” English Literature in Transition, 1880-1920, no. 41, 1998, pp. 6–23.</note><lb/> at least everybody who is incapable<lb/> of learning has taken to teaching<lb/>--that is really what our enthusiasm<lb/> for education has come to. In the<lb/> meantime, you had better go back to<lb/> your wearisome uncomfortable Nature,<lb/> and leave me to correct my proofs. <lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">C</hi><add change="#StD" hand="#Wilde" place="intentions"><hi rend="italic">yril</hi></add><hi change="#StB" hand="#Wilde" rend="underline">.</hi> Writing an article! That<lb/> is not very consistent after what<lb/> you have just said.</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

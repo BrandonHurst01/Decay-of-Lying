@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="27" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f028"/><milestone facs="#f028_z000" n="27" unit="folio_number"/><lb/>Benvenuto Cellini; in the memoirs of Casanuova ; in Defoe's <hi change="#StC" hand="#comp" rend="italic">History of the</hi><lb/><hi change="#StC" hand="#comp" rend="italic"> Plague</hi>; in Boswell's <hi change="#StC" hand="#comp" rend="italic">Life of Johnson</hi>;<lb/> in Napoleon's despatches, and in <lb/>the works of our own Carlyle, whose<lb/> <hi change="#StC" hand="#comp" rend="italic">French Revolution</hi> is one of the most <lb/>fascinating historical novels ever <lb/>written, facts are either kept in their<lb/> proper subordinate position, or else<lb/> entirely excluded on the general ground<lb/> of dulness. Now, everything is changed. <lb/>Facts are not merely finding a footing<lb/> in History, but they are usurping<lb/> the domain of Fancy, and have invaded<lb/> the kingdom of Romance. Their chilling <lb/>touch is over everything. They are <lb/>vulgarising mankind. The crude <lb/>commercial<milestone n="intentions_23"/>ism of America, its materialising<lb/> spirit, its indifference to the poetical<lb/> side of things, and its lack of imagination <lb/>and of high unattainable ideals, are <lb/>entirely due to that country having adopted<lb/> for its national hero a man, who, <lb/>according to his own confession, was <lb/>incapable of telling a lie, and it is <lb/>not too much to say that the story of<lb/> George Washington and the cherry-tree <lb/>has done more harm, and in a shorter <lb/>space of time, than any other moral tale<lb/> in the whole of literature." <lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" facs="#f028_z001" rend="underline">C.</hi><hi rend="italic">yril.</hi>My dear boy!</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

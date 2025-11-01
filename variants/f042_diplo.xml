@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="41" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f042"/><milestone facs="#f042_z000" n="41" unit="folio_number"/><lb/>However I do not wish to dwell any<lb/> further upon individual instances. Personal<lb/><milestone facs="#f042_z002" unit="guiding_line"/> <add change="#StBa" facs="#f042_z002" hand="#Wilde" place="above inline left margin" rend="caret_guiding_line">experience </add>is a most vicious and limited circle. <lb/>All that I desire to point out is<lb/> the general principle that Life imitates<lb/> Art far more than Art imitates Life,<lb/> and I feel sure that if you think<lb/> seriously about it you will find<lb/> that it is true. <del change="#StBa" facs="#f042_z003" hand="#Wilde" rend="multi-stroke">Art </del><add change="#StBa" facs="#f042_z004" hand="#Wilde" place="above" rend="no_caret">Life</add> holds the mirror<lb/> up to Art, and either reproduces <del change="#StBa" facs="#f042_z005" hand="#Wilde" rend="multi-stroke">the </del>some<lb/> strange type <add change="#StBa" facs="#f042_z007" hand="#Wilde" place="above inline" rend="guiding_line">imagined by</add> <milestone facs="#f042_z007" unit="guiding_line"/><del change="#StBa" facs="#f042_z006" hand="#Wilde" rend="multi-stroke">of </del>painter or sculptor, or<lb/> realises in fact what has been<lb/> dreamed in fiction. Scientifically speaking,<lb/> the basis of Life,the energy of Life<lb/> as Aristotle would call it,is simply<lb/> the desire for expression, and Art is<lb/> always presenting various forms through<lb/> which <add change="#StBa" facs="#f042_z011" hand="#Wilde" place="above inline" rend="caret">this </add><milestone facs="#f042_z011" unit="caret"/>expression can be attained. Life <lb/>seizes on them and uses them even if <lb/>they be to her own hurt. Young men<lb/> have committed suicide because Rolla<lb/> did so, have<milestone n="intentions 32"/> died by their own hand<lb/> because by his own hand Rene died.<lb/> Think of what we owe to the<lb/> imitation of Christ, of what we owe<lb/> to the imitation of Cæsar. <lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">Cyril</hi>. The <del change="#StBa" facs="#f042_z014" hand="#Wilde" rend="single-stroke">point </del><add change="#StBa" facs="#f042_z015" hand="#Wilde" place="above" rend="no_caret">theory </add>is certainly a very <lb/>curious one<del change="#StBa" facs="#f042_z016" hand="#Wilde" rend="single-stroke"> and entirely new.</del><lb/><lb/><lb/></p>
+				</sp>
+				<sp who="#V.">
+					<p><lb/> <lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><lb/> <lb/></p>
+				</sp>
+				<sp who="#V.">
+					<p>. <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><milestone n="intentions_35"/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><milestone n="intentions_51"/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><lb/> But even<lb/> admitting this strange imitative<lb/> instinct in Life, surely you would <lb/>acknowledge that Art expresses the</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

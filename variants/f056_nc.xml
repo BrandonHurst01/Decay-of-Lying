@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="55" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f056"/><milestone facs="#f056_z000" n="54" unit="folio_number"/><lb/>It is a theory that has never been <lb/><del change="#StC" facs="#f056_z001">formulated </del><add change="#StC" facs="#f056_z001" place="nc">formularised </add>before, but it is extremely<lb/> fruitful, and throws an entirely new light<lb/> upon the history of <del change="#StC" facs="#f056_z002" hand="#comp">a</del><add change="#StC" facs="#f056_z002" hand="#Wilde" place="intentions">A</add>rt.<lb/></p>
+					<p><lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/></p>
+					<p>The last doctrine is that Lying, the<lb/> telling of beautiful untrue <milestone n="nc_56"/>things, is the<lb/> proper aim of Art. But of this I<lb/> think I have spoken at sufficient length.<lb/> And now let us go out on the <del change="#StC" facs="#f056_z005" hand="#comp">T</del><add change="#StC" facs="#f056_z005" hand="#comp" place="nc">t</add>errace, where <add change="#StB" facs="#f050_z003" hand="#Wilde" place="inline"><del change="#StC" hand="#comp">"</del></add><add change="#StC" hand="#comp" place="nc">'</add>the milk-white peacock glimmers <lb/>like a ghost,<add change="#StB" facs="#f050_z003" hand="#Wilde" place="inline"><del change="#StC" hand="#comp">"</del></add><add change="#StC" hand="#comp" place="nc">'</add> <del change="#StBa" facs="#f056_z007" hand="#Wilde" rend="single-stroke">and </del><add change="#StBa" facs="#f056_z008" hand="#Wilde" place="above" rend="no_caret">while </add>the evening star <add change="#StB" facs="#f050_z003" hand="#Wilde" place="inline"><del change="#StC" hand="#comp">"</del></add><add change="#StC" hand="#comp" place="nc">'</add>washes <lb/>the dusk with silver.<add change="#StB" facs="#f050_z003" hand="#Wilde" place="inline"><del change="#StC" hand="#comp">"</del></add><add change="#StC" hand="#comp" place="nc">'</add> At twilight<lb/> <del change="#StC" facs="#f056_z009" hand="#comp">N</del><add change="#StC" facs="#f056_z009" hand="#comp" place="nc">n</add>ature becomes a wonderfully suggestive effect<add change="#StC" facs="#f056_z010" hand="#comp" place="nc">,</add><lb/> and is not without loveliness, though <lb/>perhaps <del change="#StC" facs="#f056_z011">her </del><add change="#StC" facs="#f056_z011" place="nc">its </add>chief use is to <del change="#StBa" facs="#f056_z012" hand="#Wilde" rend="multi-stroke">supply </del><lb/><del change="#StBa" facs="#f056_z013" hand="#Wilde" rend="multi-stroke">illustrations for </del><add change="#StBa" facs="#f056_z014" hand="#Wilde" place="above" rend="no_caret">illustrate </add>quotations from the<lb/> poets. Come<add change="#StC" facs="#f056_z015" place="nc">!</add><del change="#StC" facs="#f056_z015">.</del> We have talked long <lb/>enough.<lb/></p>
+				</sp>
+				<p><lb/>Oscar Wilde</p>
+			</div>
+		</body>
+	</text>
+</TEI>

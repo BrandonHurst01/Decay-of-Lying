@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="28" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f029"/><milestone facs="#f029_z000" n="28" unit="folio_number"/><note facs="#f029_z001" rend="pencil">Typesetter's signature: Hendra. Bracket signaling either new paragraph or beginning of new typesetter's section.</note><lb/><milestone facs="#f029_z001" unit="bracket"/><hi change="#StB" facs="#f029_z002" hand="#Wilde" rend="underline">V</hi><add change="#StD" hand="#Wilde" place="intentions"><hi rend="italic">ivian</hi></add>. I assure you it is <del change="#StD" facs="#f029_z003" hand="#Wilde">quite true </del><add change="#StD" facs="#f029_z003" hand="#Wilde" place="intentions">the case</add>, and the amusing part of the whole<lb/> thing is that the story of the cherry<lb/>-tree is an absolute myth. However, <lb/>you must not think that I am<lb/> too despondent about the artistc <milestone facs="#f029_z004" unit="caret"/>future <add change="#StD" facs="#f029_z005" hand="#Wilde" place="intentions">either </add><lb/>of America or of our own country. Listen<lb/> to this:--<lb/></p>
+					<p><add change="#StD" place="intentions">"</add><del change="#StD" hand="#comp">'</del>That some change will take place<lb/> before this century has drawn to its<lb/> close<del change="#StD" facs="#f029_z007">,</del> we have no doubt whatsoever.<lb/> Bored by the tedious and improving <lb/>conversation of those who have neither<lb/> the wit to exaggerate nor the <lb/>genius to romance, tired of the<lb/> intelligent person whose reminiscences<lb/> are always based upon memory, whose<lb/> statements are invariably limited by<lb/> probability, and who is at any time<lb/> liable to be corroborated by the<lb/> merest Philistine who happens to be <lb/>present, <add change="#StD" facs="#f029_z009" place="intentions">S</add><del change="#StD" facs="#f029_z009">s</del>ociety sooner or later must <lb/>return to its lost leader, the cultured<lb/> and fascinating liar. Who he was<lb/> who first, without ever having gone<lb/> out to the rude chase, told the <lb/>wondering cave-men at sunset how he <lb/><lb/><lb/><lb/><lb/> had dragged the Megatherium from <lb/>the purple darkness of its jasper<lb/> cave, or slain the Mammoth in<lb/> single combat and brought back its <del change="#StD" facs="#f029_z015" hand="#Wilde">golden </del><add change="#StD" facs="#f029_z015" hand="#Wilde" place="intentions">gilded </add>tusks, we cannot tell, and<lb/> not one of our <milestone n="nc_46"/>modern<milestone n="intentions_24"/>anthropologists,</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="33" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f034"/><milestone facs="#f034_z000" n="33" unit="folio_number"/><lb/><hi change="#StB" hand="#Wilde" rend="underline">V</hi><hi rend="italic">ivian</hi>.<lb/>Certainly I do. Paradox though it <milestone facs="#f034_z001" unit="enclosure"/>may seem--<lb/><lb/> and paradoxes are always dangerous<lb/> things--it is none the less true that<lb/> <hi change="#StC" rend="italic">Life imitates </hi><del change="#StE" facs="#f034_z006"><hi change="#StC" rend="italic">A</hi></del><add change="#StE" facs="#f034_z006" place="intentions_1894"><hi change="#StC" rend="italic">a</hi></add><hi change="#StC" rend="italic">rt <milestone facs="#f034_z004" unit="caret"/>far more than Art</hi><lb/><hi change="#StC" rend="italic"> imitates life</hi>. We have all seen in<lb/> our own day in England how a certain <lb/>curious and fascinating type of beauty,<lb/> invented and emphasised by two imaginative<lb/> painters, has so influenced Life that<lb/> whenever one goes to a private view or<lb/> to an artistic salon one sees, here the<lb/> mystic eyes of Rossetti's dream, the long<lb/> ivory throat, the<milestone n="intentions_27"/>strange square-cut jaw,<lb/> the loosened shadowy hair that he <lb/>so ardently loved, there the<lb/> sweet maidenhood of "The Golden Stair,"<lb/> the blossom-like mouth and weary<lb/> loveliness of the "Laus Amoris," the<lb/> passion-pale face of Andromeda, the<lb/> thin hands and lithe beauty of the<lb/> Vivien in "Merlin's Dream." And it has <lb/>always been so. A great artist invents<lb/> a type, and Life tries to copy it, to <lb/>reproduce it in a popular form, like an enterprising publisher<milestone facs="#f034_z027" unit="enclosure"/>. Neither<lb/> Holbein nor Vandyck found in England <lb/>what they have given us. They brought <lb/>their types with them, and Life with her<lb/> keen imitative faculty set herself to<lb/> supply the master with models. The<lb/> Greeks, with their quick artistic instinct,<lb/> understood this, and set in the bride's<lb/> chamber the statue of Hermes or of</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

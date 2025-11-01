@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="2" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f003"/><milestone facs="#f003_z000" n="2" unit="folio_number"/><lb/>I look at a landscape I cannot<lb/> help seeing all its defects. It is fortunate for us, <milestone facs="#f003_z002"/>however, that Nature is so<lb/> imperfect, as otherwise we should<lb/> have had no art <milestone facs="#f003_z004" unit="enclosure"/>at all. Art is our spirited<lb/> protest, our<milestone facs="#f003_z007" unit="caret"/> gallant attempt to teach Nature<lb/> her proper place. As for the infinite<lb/> variety of Nature, that is a <milestone n="Intentions_4"/> pure<lb/> myth.<note>Schroeder argues that this is both a challenging of John Addington Symonds 1887 assertion that "t will never match the infinite variety and subtlety of nature; no drawing or painting will equal the primary beauties of the living model' (The Model', Fortnightly Review , vol.42, (Dec. 1887), p 859) and an allusiton to Shakespeare's Antony and Cleopatra, II.ii.239 f.</note> It is not to be found in<lb/> Nature herself . It resides in the imagination, or fancy, or <milestone facs="#f003_z013" unit="caret"/> cultivated blindness of the man who<lb/> looks at her.<lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi rend="underline">C</hi><hi rend="italic">yril</hi><hi rend="underline">.</hi> Well, you need not look at<lb/> the landscape. You can lie on<lb/> the grass and smoke and talk.<lb/></p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StC" facs="#f003_z015" hand="#comp" rend="underline">V</hi><hi rend="italic">ivian</hi><hi change="#StC" facs="#f003_z015" hand="#comp" rend="underline">. </hi>But Nature is so uncomfortable.<lb/> Grass is hard and lumpy and damp,<lb/> and full of dreadful black insects. Why, even <note>Large commercial furniture firm, located at Tottenham Court Road.</note><lb/> Morris'<note>Guy identifies the reference as an allusion to "the simple, inexpensive, black-stained rush-bottomed 'Sussex' chairs" sold by Morris &amp; Co., "a firm established by poet, painter, and designer William Morris" (362).</note> poorest workman could make you a more comfortable<lb/> seat than the whole of Nature can. Nature pales before the furniture of "the street which from Oxford has borrowed its name,” as the poet you love so much once vilely phrased it.<note>The addition</note> I<lb/> don't complain. If Nature had been comfortable, mankind would never have<lb/> invented architecture, and I prefer houses to the open air. In a house<lb/> we all feel of the proper proportions.<lb/> Everything is subordinated to us,<lb/> fashioned for our use and <milestone facs="#f003_z019" unit="caret"/>our pleasure.</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>
