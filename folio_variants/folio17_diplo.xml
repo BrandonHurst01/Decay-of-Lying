@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="17" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f018"/><milestone facs="#f018_z000" n="17" unit="folio_number"/><lb/>no more a realist than Holbein <milestone facs="#StCa" unit="enclosure"/><add change="#StBb" facs="#Wilde" hand="#Wilde" place="above inline" rend="pencil_enclosure">was</add>. He<lb/> created life, he did not copy it. I <lb/>admit, however, that he set far too<lb/> high a value on modernity of form,<lb/> and that as a consequence there is<lb/> <del change="#StBa" facs="#f018_z008" hand="#Wilde" rend="single-stroke">nothing </del><add change="#StBa" facs="#f018_z004" hand="#Wilde" place="inspace">no book</add> of his that as an<lb/> artistic masterpiece can rank with<lb/> '<hi change="#StC" facs="#f018_z003" hand="#comp" rend="underline">Salammbô</hi>' or '<hi change="#StC" facs="#f018_z004" hand="#comp" rend="underline">Esmond</hi>,' or '<hi change="#StC" facs="#f018_z005" hand="#comp" rend="underline">The</hi><lb/><hi change="#StC" facs="#f018_z005" hand="#comp" rend="underline"> Cloister and the Hearth</hi>', or the '<hi change="#StB" facs="#f018_z006 #f018_z007" hand="#Wilde" rend="underline">Vicomte</hi><lb/><hi change="#StB" facs="#f018_z006 #f018_z007" hand="#Wilde" rend="underline"> de Bragelonne</hi>'.<lb/><note facs="#f018_z014" rend="pencil">Typesetters Signature: Hirschfield</note></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">Cyril.</hi><lb/>Do you object to modernity of<lb/> form then? <lb/></p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">Vivian</hi>. <lb/>Yes. It is a huge price to pay<lb/> for a very poor result. Pure <lb/>modernity of form is always <add change="#StBa" facs="#f018_z017" hand="#Wilde" place="above inline" rend="caret">somewhat </add><milestone facs="#f018_z017" unit="caret"/>vulgarising.<lb/> It cannot help being so. The public<lb/> imagine thatbecause they are interested<lb/> in their immediate surroundings Art<lb/> should be interested in them also, and<lb/> should take them as her subject<lb/>matter. But the mere fact that they<lb/> are interested in these things makes<lb/> them unsuitable subjects for art. The<lb/> only beautiful things, as <del change="#StBa" facs="#f018_z023" hand="#Wilde" rend="multi-stroke">Schopenahuer </del><add change="#StBa" facs="#f018_z024" hand="#Wilde" place="above" rend="no_caret">somebody<lb/></add>once said, are the things that do not <lb/>concern us. As long as a thing is <lb/>useful <add change="#StBa" facs="#f018_z025" hand="#Wilde" place="above inline" rend="caret">or necessary</add><milestone facs="#f018_z025" unit="caret"/> to us, or affects us in any <lb/>way, either for pain <add change="#StBa" facs="#f018_z026" hand="#Wilde" place="inline above" rend="caret">or</add><milestone facs="#f018_z026" unit="caret"/>for pleasure, or <lb/>appeals strongly to our sympathies, or is</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

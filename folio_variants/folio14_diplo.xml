@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="14" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f015"/><milestone facs="#f015_z000" n="14" unit="folio_number"/><lb/>However, my dear Cyril, I will not detain<lb/> you any further on this point . <del change="#StAb" hand="#Wilde">so I will conent myself with saying that they have many good qualities, but that, as a class, they are </del><del change="#StA" hand="#Wilde">quite </del><add change="#StAb" hand="#Wilde" place="berg"><del>absolutely </del></add><del>unreadable.</del> <add change="#StB" hand="#Wilde" place="inline">I quite admit<lb/> that modern novels have many good points. All<lb/> I say is that, as a class, they are quite <lb/>unreadable</add>.<note facs="#f015_z003" rend="pencil">Typesetters signature "Beer"</note></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">Cyril.</hi> That is certainly a very grave qualification,<lb/> but I must say that I think you are rather<lb/> unfair in some of your strictures. <del change="#StAb" facs="#f015_z008" hand="#Wilde">you are unfair to our modern novelists. I like "Robert Elsmere" </del>I like "<hi change="#StC" facs="#f015_z007 #f015_z006" rend="italic">Robert</hi><lb/><hi change="#StC" facs="#f015_z007 #f015_z006" rend="italic"> Elsmere</hi>" for instance. . Not that I can look upon<lb/> it as <del change="#StBa" facs="#f015_z010" hand="#Wilde" rend="single-stroke">in any true sense </del>a serious work. As a <lb/>statement of the problems that confront the <del change="#StBa" facs="#f015_z011" hand="#Wilde" rend="single-stroke">early</del> <lb/>earnest Christian it is ridiculous, and antiquated.<lb/> It is simply Arnold's "<hi change="#StC" facs="#f015_z013" rend="italic">Literature and Dogma</hi>" with<lb/> the literature left out. <add change="#StB" facs="#f015_z015">It is as much behind the age as Paley's '<hi change="#StC" facs="#f015_z014" rend="italic">Evidences</hi>', or Colenso's method<lb/> of Biblical exegesis</add><del change="#StAb" facs="#f015_z015" hand="#Wilde">. It is behind the age.</del> Nor could anything be less<lb/> impressive that the unfortunate hero <add change="#StBa" facs="#f015_z016" hand="#Wilde" place="above inline" rend="caret">gravely </add><milestone facs="#f015_z016" unit="caret"/>heralding<lb/> a dawn that rose long ago, and so completely<lb/> missing its <add change="#StBa" facs="#f015_z017" hand="#Wilde" place="above inline" rend="caret">true </add><milestone facs="#f015_z017" unit="caret"/>significance that he proposes to<lb/> carry on the business of the old firm under<lb/> the new name. Upon the other hand it contains<lb/>delightful quotations, and Green's philosophy<lb/> very pleasantly sugars the somewhat bitter<lb/> pill of the author's fiction. I also cannot<lb/> help expressing my surprise that <milestone n="intentions_14"/>you have<lb/> said nothing about the two novelists <del change="#StBa" facs="#f015_z021" hand="#Wilde" rend="multi-stroke">that </del><add change="#StBa" facs="#f015_z022" hand="#Wilde" place="above" rend="no_caret">whom </add>you are always reading, Balzac and<lb/> George Meredith. Surely they are<lb/> realists, both of them?<lb/></p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">Vivian</hi>. <del change="#StAb" facs="#f015_z023" hand="#Wilde">I accept your defintion of George Meredith with pleasure, and I would remind you that if one has so dreadful a parent as Realsim the only thing left for one to do is to decline to parley with him. Meredith is certainly most remarkable. </del>Ah! Meredith! Who can define</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

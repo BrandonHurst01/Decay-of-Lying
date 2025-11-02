@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="15" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f016"/><milestone facs="#f016_z000" n="15" unit="folio_number"/><lb/>him? His style is chaos illumined by<lb/> flashes of lightning. As a writer he has<lb/> mastered everything, except language: as<lb/> a novelist he can do everything, except<lb/> tell a story: as an artist he is everything,<lb/> except articulate. Somebody in Shakespeare--<lb/>Touchstone, I think--talks about a man<lb/> who is always breaking his shins over his<lb/> own wit, and it seems to me that this might<lb/> serve as the basis for a criticism of Meredith's style .<del change="#StAb" hand="#Wilde">--But<lb/></del></p>
+				</sp>
+				<sp who="#C.">
+					<p>
+						<del change="#StA" hand="#Wilde"><hi rend="underline">Cyril </hi>His want of style, you mean<lb/></del>
+					</p>
+				</sp>
+				<sp who="#V.">
+					<p><del change="#StA" hand="#Wilde"><hi rend="underline">Vivian </hi>Not at all. Meredith is one of the few people writing who have style.</del> <del change="#StAb" hand="#Wilde">Meredith is, at heart, a </del><add change="#StA" hand="#Wilde" place="above berg"><del change="#StAb" hand="#Wilde">true </del></add><del change="#StAb" hand="#Wilde">Romanticist. He has not bowed the knee to Baal.</del></p>
+				</sp>
+				<sp who="#V.">
+					<p>But whatever he is, he is not a<lb/> Realist. Or rather I would say that he is<lb/> a child of Realism who is not on<lb/> speaking terms with his father. <del change="#StBa" facs="#f016_z006" hand="#StC" rend="single-stroke">It [he??t]</del> <add change="#StBa" facs="#f016_z007" hand="#Wilde" place="above" rend="no_caret">By </add><lb/>deliberate choice he has made himself<lb/> a Romanticist. He has refused to bow<lb/> the knee to Baal, and, after all, even</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="49" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f050"/><milestone facs="#f050_z000"/><lb/>for the Church, I cannot conceive <lb/>anything better for the <lb/>culture of a country than the presence<lb/> in it of a body of men whose duty it <lb/>is to believe in the supernatural, to<lb/> perform daily miracles, and to keep<lb/> alive that mythopoeic faculty which is <lb/>so essential for the imagination. But<lb/> in the English Church a man succeeds, <lb/>not through his capacity for<lb/> belief, but through his capacity for<lb/> disbelief. Ours is the only Church where <lb/>the sceptic stands at the altar, and <lb/>where St. Thomas is regarded as the <lb/>ideal apostle. Many a worthy clergyman, <lb/>who passes his life in admirable works <lb/>of kindly charity, lives and dies <lb/>unnoticed and unknown; but it is sufficient <lb/>for some shallow uneducated passman <lb/>out of either University to get up in <lb/>his pulpit and express his doubts <lb/>about Noah's ark, or Balaam's ass, or <lb/>Jonah and the whale, for half of <lb/>London to flock to hear him, and to<lb/> sit open-mouthed in rapt admiration<lb/> at his superb<milestone n="intentions_41"/> intellect. The growth of<lb/> common sense in the English Church is<lb/> a thing very much to be regretted. It is<lb/> really a degrading concession to a low form<lb/> of realism. It is silly, too. It springs from an entire ignorance of psychology. Man can believe the impossible, but man can never believe the improbable. However, I must read the end<lb/> of my article:--<note facs="#f050_z001" rend="pencil">Typesetter's Signature: Deely</note><lb/></p>
+					<p><milestone facs="#f050_z002" unit="bracket"/><note facs="#f050_z003">Passage pulled from deleted content on <ref target="#f049_z005">48A</ref></note>"What we have to do, what at any rate it is our duty<lb/> to do, is to revive this oldart of Lying. Much<lb/> of course may be done, in the way of educating<lb/> the public, by amateurs in the domestic circle,<lb/> at literary lunches, and at</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

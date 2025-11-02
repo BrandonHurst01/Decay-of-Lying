@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="44" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f045"/><milestone facs="#f045_z000" n="44" unit="folio_number"/><lb/>its age. If we wish to understand a <lb/>nation <add change="#StBa" facs="#f045_z003" hand="#Wilde" place="above inline" rend="caret">by means of its art,</add><milestone facs="#f045_z003" unit="caret"/>let us look at its architecture<lb/><del change="#StBa" facs="#f045_z004" hand="#Wilde" rend="single-stroke">and </del><add change="#StBa" facs="#f045_z005" hand="#Wilde" place="above" rend="no_caret">or </add>its music.<lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><note facs="#f045_z002">Typesetter's Signature: Hirchfelt</note><milestone facs="#f045_z001" unit="bracket"/><hi change="#StB" hand="#Wilde" rend="underline">Cyril</hi> I do not quite agree with<lb/> you there. The spirit of an age<lb/> may be best expressed in the abstract<lb/> ideal arts, for the spirit itself is <lb/>abstract and ideal, <del change="#StBa" facs="#f044_z023" hand="#Wilde" rend="multi-stroke">for</del> but for the <lb/>visible aspect of an age, for its<lb/> look, as the phrase goes, we must <lb/>of course go to the arts of imitation.<lb/></p>
+				</sp>
+				<sp who="#V.">
+					<p>Vivian.<lb/> I don't think so. After all<lb/> what the imitative arts <del change="#StBa" facs="#f045_z011" hand="#Wilde" rend="multi-stroke">can </del><add change="#StBa" facs="#f045_z012" hand="#Wilde" place="above" rend="no_caret">really </add>give us<lb/> <del change="#StBa" facs="#f045_z013" hand="#Wilde" rend="single-stroke">is </del><add change="#StBa" facs="#f045_z014" hand="#Wilde" place="above" rend="no_caret">are </add><del change="#StBa" facs="#f045_z015" hand="#Wilde" rend="single-stroke">the </del>merely the various styles of <lb/><del change="#StBa" facs="#f045_z016" hand="#Wilde" rend="single-stroke">individual </del><add change="#StBa" facs="#f045_z017" hand="#Wilde" place="above" rend="no_caret">particular </add>artists, or of particular <lb/>schools of artists. Surely you dont<lb/> imagine that the people of<milestone n="nc_52"/> the <lb/>Middle Ages had <del change="#StBa" facs="#f045_z020" hand="#Wilde" rend="single-stroke">any </del><add change="#StBa" facs="#f045_z021" hand="#Wilde" place="above" rend="no_caret">the slightest</add> resemblance at<lb/> all to the figures on mediæval<lb/> stained glass, or in medieval stone and wood carving<del change="#StBa" facs="#f045_z023" hand="#Wilde" rend="multi-stroke">?</del><add change="#StBa" facs="#f045_z023" hand="#Wilde" place="inline">,</add> or on mediæval <lb/>metal-work, or tapestries<del change="#StBa" facs="#f045_z024" hand="#Wilde" rend="multi-stroke">?</del><add change="#StBa" facs="#f045_z024" hand="#Wilde" place="inline">,</add> <add change="#StBa" facs="#f045_z025" hand="#Wilde" place="above left inline" rend="caret_enclosure">or illuminated M.S.S?</add> <milestone facs="#f045_z025" unit="enclosure"/><milestone facs="#f045_z025" unit="caret"/>They were <lb/>probably very ordinary-looking people with nothing grotesque, or remarkable,<lb/> or fantastic in their appearance. The Middle <lb/>Ages, as we know them in art are <lb/>simply a definite form of style, and there<lb/> is no reason at all why an artist<lb/> with this style should not be produced<lb/> in the nineteenth century. No great</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

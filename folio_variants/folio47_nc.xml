@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="47" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f048"/><milestone facs="#f048_z000" n="47" unit="folio_number"/><lb/>But read an authority, like Aristophanes<lb/> for instance. You will find that the<lb/> Athenian ladies laced tightly, wore<lb/> high-heeled shoes, dyed their hair<lb/> yellow, painted and rouged their faces,<lb/> and were exactly like any silly<lb/> fashionable or fallen creature of our<lb/> own day. The fact is that we look back on the<lb/> ages entirely through the medium<lb/> of <del change="#StC" facs="#f048_z002" hand="#comp">a</del><add change="#StC" facs="#f048_z002" hand="#comp" place="nc">A</add>rt, and <del change="#StC" facs="#f048_z001" hand="#comp">a</del><add change="#StC" facs="#f048_z001" hand="#comp" place="nc">A</add>rt<add change="#StBa" facs="#f048_z003" hand="#Wilde" place="above inline" rend="caret">, very fortunately, has </add><milestone facs="#f048_z003" unit="caret"/>never once <del change="#StBa" facs="#f048_z004" hand="#Wilde" rend="multi-stroke">has </del>told<lb/> us the truth.<lb/></p>
+				</sp>
+				<sp who="#StC">
+					<p><add change="#StC" facs="#f031_z001" hand="#comp" place="above"><hi change="#StC" rend="italic">C</hi><hi change="#StB">.</hi></add><del change="#StC" facs="#f031_z001" hand="#comp"><hi change="#StB" rend="underline">Cyril</hi><hi change="#StB">.</hi></del><lb/>But modern portraits by English <lb/>painters, what of them? Surely they <lb/>are like the people they pretend to<lb/> represent? <lb/></p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StC" rend="italic">V</hi><del change="#StC" hand="#comp"><hi change="#StC">ivian</hi></del>. <lb/>Quite so. They are so like them<lb/> that a hundred years from<milestone n="nc_53"/> now no<lb/> one will believe in them. The <lb/>only portraits that one believes in<lb/>are portraits where there <del change="#StB" facs="#f048_z007" hand="#Wilde">w</del><add change="#StB" facs="#f048_z007" hand="#Wilde" place="overwritten">is</add> very little<lb/> of the sitter, and <del change="#StBa" facs="#f048_z008" hand="#Wilde" rend="single-stroke">very </del>a great deal<lb/> of the artist. Holbein's portaits <milestone facs="#f048_z010" unit="enclosure"/><milestone facs="#f048_z010" unit="caret"/><add change="#StBa" facs="#f048_z010" hand="#Wilde" place="above inline" rend="caret_enclosure">of the men and women of his time</add> <lb/>impress us with a sense of their absolute<del change="#StC" facs="#f048_z011" hand="#comp">ly</del><lb/> reality. But this is simply because<lb/> Holbein compelled life to accept his<lb/> conditions, to restrain itself within his <lb/>limitations, to reproduce his type, and<lb/> to appear as he wished it to appear.<lb/> It is style that makes us believe in<lb/> a thing--nothing but style. Most</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

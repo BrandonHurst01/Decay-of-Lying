@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="54" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f055"/><milestone facs="#f055_z000" n="53" unit="folio_number"/><lb/>from the art of a time to the time<lb/> itself is the great fallacy of all<lb/> historians . <lb/></p>
+					<p>The second doctrine is this. All bad<lb/> art comes from <del change="#StB" facs="#f055_z003" hand="#Wilde" rend="single-stroke">[?] </del>returning to Life<lb/> and Nature, and elevating them<lb/> into ideals. Life and Nature may <milestone facs="#f055_z007" unit="caret"/><add change="#StBa" facs="#f055_z007" hand="#Wilde" place="above inline" rend="caret">sometimes</add> be<lb/> used as <add change="#StBa" facs="#f055_z008" hand="#Wilde" place="above inline" rend="caret">part of A</add><add>rt's</add> <milestone facs="#f055_z008" unit="caret"/>rough material, but before<lb/> they are of any real service to art<lb/> they must be translated into artistic <lb/>conventions. The moment Art surrenders<lb/> its imaginative medium it surrenders<lb/> everything. As a method Realism<lb/> is a complete failure, and the two<lb/> things that every artist should avoid<lb/> are modernity of form and modernity <lb/>of subjectmatter. To us, who live in<lb/> the nineteenth century, any century is<lb/> a suitable subject for art except<lb/> our own. The only beautiful things are<lb/> the things that do not concern us. It is, to<lb/> have the pleasure of quoting myself, exactly<lb/> because Hecuba is nothing to us that<lb/> her sorrows are so suitable a motive for<lb/> a tragedy.<lb/> <lb/><lb/><lb/><lb/><lb/> <lb/></p>
+					<p>The third doctrine is that Life<lb/> imitates Art far more than Art <lb/>imitates Life. This results not merely<lb/> from Life's imitative instinct, but<lb/> from the fact that the desire of Life<lb/> is to find expression, and that<lb/> Art<milestone n="intentions_45"/>offers it certain beautiful forms<lb/> through which it may realize its energy.</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

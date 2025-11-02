@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="52" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f053"/><milestone facs="#f053_z000" n="51" unit="folio_number"/><lb/>solid stolid British intellect lies in the<lb/> desert sands like the Sphinx in Flaubert's<lb/> marvellous tale, and fantasy, <hi rend="italic">La </hi><lb/><milestone facs="#f053_z003" rend="blue_pencil" unit="vertical_line"/><hi rend="italic">Chimère</hi>, dances round it, and calls<lb/> to it with her false, flute-toned voice.<lb/> It may not hear her now, but surely<lb/> someday, when we are all bored to<lb/> death with the commonplace character of<lb/> modern fiction, it will hearken<lb/> to her and try to borrow her wings.<milestone n="intentions_43"/><lb/></p>
+					<p><note facs="#f053_z002" rend="pencil">Typesetter's signature: Shaw. Bracket signaling new paragraph and shift in printing responsibilities.</note><milestone facs="#f053_z001" unit="bracket"/><note facs="#f050_z003">Passage pulled from deleted content on 48A</note>"And when that day dawns, or sunset<lb/> reddens, how joyous we shall all be! <note facs="#f053_z013">Moved up from position after "land." in Berg</note><lb/>Facts will be regarded as discreditable, <lb/>Truth will be found mourning over her <lb/>fetters, and Romance, with her temper of <lb/>wonder, will return to the land. The <lb/>very aspect of the world will change <lb/>to our startled eyes. Out of the sea will rise Behemoth and Leviathan, and<lb/> sail round the high-pooped galleys, as<lb/> they do on the delightful maps of those<lb/> ages when books on geography were <lb/>actually <milestone n="nc_55"/>readable. Dragons will wander<lb/> about the waste places, and the phoenix<lb/> will soar from her nest of fire into<lb/> the air. We <milestone facs="#f053_z017" unit="caret"/>shall lay our hands upon the<lb/> basilisk, and see the jewel in the toad's head. Champing his <ref target="#f029_z015">gilded </ref><note>"golden" in Berg; See similar revision series on Folio 28. Wilde's revision here seems to reinforce the priviledging of ostensibile appearances, artifice, and presetnation over some "real" "essence" or "truth</note><lb/>oats, the Hippogriff will stand<lb/> in our stalls, and over our heads will float <lb/>the Blue Bird singing of beautiful and<lb/> impossible things, of things that are lovely<lb/> and that never happen, of things that</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

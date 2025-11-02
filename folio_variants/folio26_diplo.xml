@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="26" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f027"/><milestone facs="#f027_z000" n="26" unit="folio_number"/><lb/>me "You Christians are so occupied in<lb/> misinterpreting the fourth Commandment<lb/> that you have never thought of making an<lb/> artistic application of the second." He <lb/>was perfectly<milestone n="intentions_22"/>right, and the whole truth <lb/>of the matter is this: <hi change="#StC" rend="italic">the proper school to learn art in is not Life but </hi><lb/><del change="#StBa" facs="#f027_z003" hand="#Wilde" rend="single-stroke">Life."</del> <hi change="#StC" rend="italic">Art.</hi>"<lb/><note facs="#f027_z004" rend="pencil">typesetter's signature: Young. Bracket signaling either new paragraph or beginning of new typesetter's section.</note></p>
+					<p><milestone facs="#f027_z004" unit="bracket"/>And now let me read you a passage<lb/> which should have come before this. It <lb/>deals with the commonplace character of our literature .<lb/></p>
+					<p>"<add change="#StB" facs="#f027_z009" hand="#Wilde" place="inspace">It was not always thus. </add>We need <lb/>not say anything about the poets, for they, <lb/>with the unfortunate exception of Mr.<lb/>Wordsworth, <milestone n="nc_45"/>have always been faithful to <lb/>their high mission, and are universally <lb/>recognised as being absolutely unreliable.<lb/> But in the works of Herodotus, who in <lb/>spite of the shallow and ungenerous <lb/>attempts of modern sciolists to verify<lb/> his history may justly be called "The Father of Lies;" in the published speeches <lb/>of Cicero and the biographies of Suetonius;<lb/> in Tacitus at his best; in Pliny's '<hi change="#StC" hand="#comp" rend="italic">Natural</hi><lb/><hi change="#StC" hand="#comp" rend="italic"> History</hi>;' in Hanno's '<hi change="#StC" hand="#comp" rend="italic">Periplus</hi>'; in all <lb/>the early chronicles; in the Lives of the <lb/>Saints; in Froissart and Sir Thomas <lb/>Mallory; in the travels of Marco Polo;<lb/> in Olaus Magnus, and Aldrovandus,<lb/> and Conrad Lycosthenes with his <lb/>magnificent '<hi rend="italic">Prodigiorum et Ostentorum</hi><lb/><hi rend="italic"> Chronicon</hi>'; in the autobiography of</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

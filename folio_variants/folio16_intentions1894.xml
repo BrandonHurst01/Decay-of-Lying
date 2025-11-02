@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="16" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f017"/><milestone facs="#f017_z000" n="16" unit="folio_number"/><lb/>if the man's fine <milestone facs="#f017_z001" unit="caret"/>spirit did not revolt<lb/> against the noisy assertions of<lb/> realism, his style would be quite<lb/> sufficient of itself to keep life at a<lb/> respectful distance.<milestone facs="#f017_z003" unit="enclosure"/>By its means he has planted <milestone facs="#f017_z004" unit="enclosure"/>round his garden a<lb/> hedge full of thorns, and red with <lb/>wonderful roses. As for Balzac,<lb/> he was a most remarkable combination<lb/> of the artistic temperament with the<lb/> scientific spirit. The latter he bequeathed<lb/> to his disciples: the<milestone n="nc_41"/> former was entirely<lb/> his own. The difference between such<lb/> a book as M. Zola's <hi facs="#f017_z010" rend="italic">L'Assommoir</hi> and<lb/> Balzac's <hi facs="#f017_z011" rend="italic">Illusions Perdues</hi> is <milestone facs="#f017_z012" unit="caret"/>the difference<lb/> between unimaginative realism and<lb/> imaginative reality. "<q>All Balzac's</q><lb/><q> characters,</q>" said Baudelaire, "<q>are</q><lb/><q> gifted with the same ardour of life</q><lb/><q> that animated himself. All his fictions</q><lb/><q> are as deeply coloured as dreams. Each</q><lb/><q> mind is a weapon loaded to the</q><lb/><q> muzzle <milestone n="intentions_15"/> with will. The very scullions </q><lb/><q>have genius.</q>" A steady course of<lb/> Balzac reduces our living friends<lb/> to shadows, and our acquaintances to<lb/> the shadows of shades. His characters<lb/> have a kind of fervent fiery-coloured<lb/> existence. They dominate us, and defy <lb/>scepticism. One of the greatest<lb/> tragedies of my life is the death of<lb/> Lucien de Kubempré. It is a grief<lb/> from which I have never been able to <lb/>completely rid myself. It haunts me in my moments of pleasure. I remember it when I laugh. But Balzac is</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="53" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f054"/><milestone facs="#f054_z000" n="52" unit="folio_number"/><lb/>are not and that should be. But <lb/>before this comes to pass we must <lb/>cultivate the lost art of Lying." <lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StC" rend="italic">C</hi><del change="#StD" hand="#comp"><hi change="#StB">.</hi></del><add change="#StD" facs="#f054_z001" hand="#Wilde" place="intentions"><hi facs="#f054_z001" rend="italic">yril.</hi></add> Then we must certainly<lb/> cultivate it at once. But in order<lb/> to avoid making any error, I want you to tell me briefly the doctrines of the new æsthetics. <lb/></p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StC" rend="italic">V</hi><del change="#StD" facs="#f031_z001" hand="#comp"><hi change="#StB">.</hi></del><add change="#StD" facs="#f054_z002" hand="#Wilde" place="intentions"><hi rend="italic">ivian.</hi></add> Briefly, then, <milestone facs="#f054_z008" unit="caret"/>they are these. Art<lb/> never expresses anything but itself.<lb/> It has an independent life, just <lb/>as Thought has, and develops purely<lb/> on its own lines. It is not necessarily <lb/>realistic in an age of realism,<lb/> nor spiritual in an age of faith.<lb/> So far from being the creation of<lb/> its time, it is usually in direct<lb/> opposition to it, and the only<lb/> history that it preserves for us<lb/> is the history of its own progress.<lb/> Sometimes <milestone facs="#f054_z012" unit="caret"/>it returns upon its <del change="#StD" facs="#f054_z013" hand="#Wilde">own</del><lb/> footsteps, and revives some <del change="#StD" facs="#f054_z014" hand="#Wilde">old </del><add change="#StD" facs="#f054_z014" hand="#Wilde" place="intentions">antique </add>form,<lb/> as happened<milestone n="intentions_44"/> in the archaisitic<lb/> movement of late Greek art, and<lb/> in the pre-Raphaelite movement of our<lb/> own day. At other times it entirely<lb/> anticipates its age, and produces in<lb/> one century work that it takes<lb/> another century to understand, to<lb/> appreciate, and to enjoy. In no case<lb/> does it reproduce its age. To pass</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

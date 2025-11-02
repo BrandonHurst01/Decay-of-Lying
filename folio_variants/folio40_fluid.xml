@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="40" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f041"/><milestone facs="#f041_z000" n="40" unit="folio_number"/><lb/>same <add change="#StC" facs="#f041_z001" hand="#comp" place="nc">thing</add>. Before my letter <add change="#StC" facs="#f041_z002" hand="#comp" place="nc">had </add>reached her<add change="#StC" facs="#f041_z003" hand="#comp" place="nc">,</add><lb/> she had run away with a man who<lb/> deserted her in six months. I saw<lb/> her in 1884 in Paris, where she was<lb/> living <del change="#StBa" facs="#f041_z004" hand="#Wilde" rend="single-stroke">alone </del>with her mother, and I asked<lb/> her whether the <del change="#StBa" facs="#f041_z005" hand="#Wilde" rend="multi-stroke">novel </del><add change="#StBa" facs="#f041_z006" hand="#Wilde" place="above" rend="no_caret">story </add>had had anything<lb/> to do with her action. She told me<lb/> that she had felt an absolutely<lb/> irresistible impulse to follow the heroine<lb/> step by step in her strange and <del change="#StD" facs="#f041_z007" hand="#Wilde">terrible </del><add change="#StD" facs="#f041_z007" hand="#Wilde" place="intentions">fatal </add><lb/>progress, and that it was with a feeling<lb/> of <del change="#StBa" facs="#f041_z008" hand="#Wilde" rend="single-stroke">absolute </del><add change="#StBa" facs="#f041_z009" hand="#Wilde" place="above" rend="no_caret">real </add>terror that she <add change="#StBa" facs="#f041_z010" hand="#Wilde" place="above inline" rend="caret">had </add><milestone facs="#f041_z010" unit="caret"/>looked forward<lb/> to the last few chapters of the story.<lb/> When they appeared<add change="#StD" facs="#f041_z011" hand="#comp" place="intentions">,</add> it seemed to her<lb/> that she was compelled to reproduce<lb/> them in life, and she did so. It was<lb/> a most clear <del change="#StBa" facs="#f041_z012" hand="#Wilde" rend="multi-stroke">instance </del><add change="#StBa" facs="#f041_z013" hand="#Wilde" place="above" rend="no_caret">example </add>of this imitative<lb/> instinct of which I was speaking, and<lb/> an extremely tragic one.</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

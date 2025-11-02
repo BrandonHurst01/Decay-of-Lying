@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="51" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f052"/><milestone facs="#f052_z000" n="50" unit="folio_number"/>real practical service to many earnest<lb/> and deep-thinking people. Lying for the<lb/> sake of the improvement of the<lb/> young, which is the basis of home <lb/>education, still lingers amongst us, and <lb/>its advantages are so admirably set <lb/>forth in the early books of Plato's <hi change="#StC" rend="italic">Republic </hi><lb/>that it is unnecessary to dwell upon <lb/>them here. It is a mode of lying for <lb/>which all good mothers have peculiar <lb/>capabilities, but it is capable of still <lb/>further development, and has been sadly <lb/>overlooked by the School Board. Lying <lb/>for the sake of a monthly salary is <lb/>of course well known in Fleet Street, <lb/>and the profession of a political <lb/>leader-writer is not without its <lb/>advantages. But it is said to be a <lb/>somewhat dull occupation, and it certainly <lb/>does not lead to much beyond a kind <lb/>of ostentatious obscurity. <lb/><lb/><lb/><lb/>The only form of lying<lb/> that is absolutely beyond reproach is<lb/> Lying for its own sake, and the highest<lb/> development of this is, as we have already pointed out,<milestone facs="#f052_z016" unit="caret"/><milestone facs="#f052_z016" unit="enclosure"/> Lying in Art.<lb/> Just as those who do not love Plato<lb/> more than Truth cannot pass beyond the<lb/><note facs="#f052_z019" rend="blue_pencil">Blue pencil x</note> threshold of the Academe, so those who<lb/> do not love Beauty more than Truth<lb/> never know the inmost shrine of Art. The</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

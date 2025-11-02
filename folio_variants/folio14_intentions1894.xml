@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="14" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f015"/><milestone facs="#f015_z000" n="14" unit="folio_number"/><lb/>However, my dear Cyril, I will not detain<lb/> you any further just here. <del>absolutely unreadable.</del> I quite admit<lb/> that modern novels have many good points. All<lb/> I insist on is that, as a class, they are quite <lb/>unreadable.<note facs="#f015_z003" rend="pencil">Typesetters signature "Beer"</note></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">C</hi><hi rend="italic">yril</hi><hi change="#StB" hand="#Wilde" rend="underline">.</hi> That is certainly a very grave qualification,<lb/> but I must say that I think you are rather<lb/> unfair in some of your strictures. I like <hi change="#StD" rend="italic">The Deemster</hi>, and <hi change="#StD" rend="italic">The Daughter of Heth</hi>, and <hi rend="italic">Le Disciple</hi>, and <hi change="#StD" rend="italic">Mr Isaacs</hi>, and as for <hi change="#StC" facs="#f015_z007 #f015_z006" rend="italic">Robert</hi><lb/><hi change="#StC" facs="#f015_z007 #f015_z006" rend="italic"> Elsmere</hi> I am quite devoted to it. Not that I can look upon<lb/> it as a serious work. As a <lb/>statement of the problems that confront the <lb/>earnest Christian it is ridiculous and antiquated.<lb/> It is simply Arnold's <hi change="#StC" facs="#f015_z013" rend="italic">Literature and Dogma</hi> with<lb/> the literature left out. It is as much behind the age as Paley's <hi change="#StC" facs="#f015_z014" rend="italic">Evidences</hi>, or Colenso's method<lb/> of Biblical exegesis Nor could anything be less<lb/> impressive than the unfortunate hero gravely <milestone facs="#f015_z016" unit="caret"/>heralding<lb/> a dawn that rose long ago, and so completely<lb/> missing its true <milestone facs="#f015_z017" unit="caret"/>significance that he proposes to<lb/> carry on the business of the old firm under<lb/> the new name. On the other hand, it contains<lb/>several clever caricatures, and a heap of delightful quotations, and Green's philosophy<lb/> very pleasantly sugars the somewhat bitter<lb/> pill of the author's fiction. I also cannot<lb/> help expressing my surprise that <milestone n="intentions_14"/>you have<lb/> said nothing about the two novelists whom you are always reading, Balzac and<lb/> George Meredith. Surely they are<lb/> realists, both of them?<lb/></p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">V</hi><hi rend="italic">ivian</hi>. Ah! Meredith! Who can define</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="29" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f030"/><milestone facs="#f030_z000" n="30" unit="folio_number"/><lb/>for all their much-boasted science<lb/> has had the ordinary courage to tell <lb/>us. Whatever was his name <del change="#StBa" facs="#f030_z001" hand="#Wilde" rend="single-stroke">and </del><add change="#StBa" facs="#f030_z002" hand="#Wilde" place="above" rend="no_caret">or </add>race, <lb/>he was certainly the true founder of<lb/> social intercourse. <del change="#StB" facs="#f030_z004" hand="#Wilde" rend="multi-stroke">As we k </del>For the <lb/>aim of the Liar is simply to charm,<lb/> to delight, to give pleasure. He is <lb/>the very basis of civilized society, and<lb/> without him a dinner party even at<lb/> the mansions of the great is as dull<lb/> as a lecture at the Royal Society, or <lb/>a debate at the Incorporated Authors."<lb/></p>
+					<p>"Nor will he be welcomed<lb/> by Society alone. Art, breaking from the <lb/>prison-house of <del change="#StAb" facs="#f030_z010" hand="#Wilde">Realism and abandoning the </del><add change="#StA" hand="#Wilde" place="berg"><del change="#StAb" facs="#f030_z010" hand="#Wilde">wicked </del></add><del change="#StAb" facs="#f030_z010" hand="#Wilde">tents of those peripatetic photographers who call them-selves Naturalistic novelists </del>Realism, will run to <lb/>greet him and will kiss his false <lb/>beautiful lips, knowing that he alone<lb/> is in possession of the great secret<lb/> of all her manifestations, the secret <lb/>that truth is entirely and absolutely<lb/> a matter of style. while Life,poor <lb/>probable uninteresting <add change="#StB" facs="#f030_z015" hand="#Wilde" place="inline">human </add>Life,<lb/>tired of repeating herself for the<lb/> benefit of Mr.Herbert Spencer, scientific<lb/> historians, and the compilers of statistics<lb/> in general, will follow meekly after<lb/> him, and try to reproduce in her own<lb/> simple and untutored way some of the<lb/> marvels of which he talks." <lb/></p>
+					<p>"No doubt there will always be critics<lb/> who, <add change="#StB" facs="#f030_z017" hand="#Wilde" place="inline">like a certain writer in the</add><lb/><add change="#StB" facs="#f030_z018" hand="#Wilde" place="inline"><hi rend="italic">Saturday Review</hi>,</add> will gravely censure<lb/> the <del change="#StAb" facs="#f030_z019" hand="#Wilde">writer </del><add change="#StB" facs="#f030_z019" hand="#Wilde" place="inline">teller </add>of Fairy Tales for his defective</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

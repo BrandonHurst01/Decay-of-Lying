@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="19" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f020"/><milestone facs="#f020_z000" n="19" unit="folio_number"/><lb/>entirely and absolutely wrong. We have<lb/> mistaken the common livery of the<lb/> age for the vesture of the Muses, and<lb/> spend our days in the sordid streets and<lb/> hideous suburbs of our vile cities<lb/> when we should be out on the<lb/> hillside with Apollo. Certainly we are a degraded<lb/> race, and have sold our birthright for<lb/> a mess of facts.<lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">C</hi><hi rend="italic">yril</hi><hi change="#StB" hand="#Wilde" rend="underline">.</hi> There is something in what you<lb/> say, and there is no doubt that <lb/>whatever amusement we may find in<lb/> reading apurely modern novel,<lb/> we have rarely any artistic pleasure in<lb/> re-reading it. And this is perhaps<lb/> <milestone n="intenitons_17"/>the best rough test of what is<lb/> literature and what is not. If one cannot enjoy reading a book<lb/> over and over again, there is no use <lb/>reading it at all. But what do<lb/> you say about the return to Life<lb/> and Nature? This is the panacea that <lb/>is always being recommended to us.<lb/></p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">V</hi><hi rend="italic">ivian</hi>. <del>).</del>I will<lb/> read you what I say on that<lb/> subject. The passage comes later in the article, but I may as well<lb/> give it to you now:-- <lb/></p>
+					<p>"The popular cry of our time is<lb/>'Let us return to Life and Nature: they<lb/> will recreate Art for us, and send</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

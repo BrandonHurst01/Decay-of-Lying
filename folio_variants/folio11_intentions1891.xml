@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="11" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f012"/><milestone facs="#f012_z000" n="11" unit="folio_number"/><lb/>is that they find life crude, and leave<lb/> it raw.<lb/></p>
+					<p><del change="#StD" facs="#f012_z002">'</del><add change="#StD" facs="#f012_z002" place="intentions">"</add>In France, though nothing so deliberately<lb/>tedious as <hi change="#StC" facs="#f012_z003" rend="italic">Robert Elsmere</hi> has been<lb/> produced, things are not much better.<lb/> M. Guy<milestone n="nc_39"/> de Maupassant, with his keen<lb/> mordant<milestone n="intentions_11"/>irony and his hard vivid<lb/> style, strips life of the few poor rags<lb/> that still cover her, and shows us foul<lb/> sore and festering wound. He writes<lb/> lurid little tragedies in which everybody<lb/> is ridiculous; bitter comedies at which<lb/> one cannot laugh for very tears. M.<lb/> Zola, true to the lofty principle that he<lb/> lays down in one of his pronunciamientos<lb/> on literature, <add change="#StD" facs="#f012_z011" place="intentions">'</add><del change="#StD" facs="#f012_z011">"</del>L'homme de génie n'a jamais d'esprit,<add change="#StD" facs="#f012_z012" place="intentions">'</add><del change="#StD" facs="#f012_z012">"</del> is determined to<lb/> show that, if he has not got genius,<lb/> he can at least be dull. And how<lb/> well he succeeds! He is not without<lb/> power. Indeed at times, as in <hi rend="italic">Germinal</hi>,<lb/> there is something almost epic in his<lb/> work. But his work is entirely wrong<lb/> from beginning to end, and wrong<lb/> not on the ground of morals, but on<lb/> the ground of art. From any ethical<lb/> standpoint it is just what it<lb/> should be. <del change="#StD" facs="#f012_z017" hand="#Wilde">He </del><add change="#StD" facs="#f012_z017" hand="#Wilde" place="intentions">The author </add>is perfectly truthful, and<lb/> describes things exactly as they happen.<lb/> What more can any moralist desire?<lb/> <del change="#StD" facs="#f012_z019" hand="#Wilde">I </del><add change="#StD" facs="#f012_z019" hand="#Wilde" place="intentions">We </add>have no sympathy at all with<lb/> the moral indignation of our time against<lb/> M. Zola. It is simply the <del change="#StD" facs="#f012_z020" hand="#Wilde">rage </del><add change="#StD" facs="#f012_z020" hand="#Wilde" place="intentions">indignation </add>of</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

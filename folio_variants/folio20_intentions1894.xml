@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="20" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f021"/><milestone/><lb/>the red blood coursing through her veins:<lb/>they will shoe her feet with swiftness and<lb/> make her hand strong.' But, <milestone facs="#f021_z005" unit="caret"/>alas! we are<lb/> mistaken in our amiable and well-meaning<lb/> efforts. Nature is always behind the<lb/> age. And as for Life, she is the solvent<lb/> that breaks up Art, the enemy that lays<lb/> waste her house."<lb/><note facs="#f021_z001" rend="pencil">Typesetter's Signature: Bailey</note></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">C</hi><hi rend="italic">yril</hi><hi change="#StB" hand="#Wilde" rend="underline">.</hi> What do you mean by saying<lb/> that Nature is always behind the age?</p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">V</hi><hi rend="italic">ivian</hi>. Well, perhaps that is rather <lb/>cryptic. What I mean is this. If<lb/> we take Naature to mean natural simple<lb/> instinct as opposed to self-conscious<lb/> culture, the work produced under this<lb/> influence is always old-fashioned, antiquated, <milestone facs="#f021_z012" unit="guiding_line"/>and out of date. One touch of Nature may make the whole world kin, but two touches of Nature will destroy any work of Art. If, on the other hand, we<lb/> regard Nature as the collection of <lb/>phenomena external to man, people only<lb/> discover in her what they bring to her. She<lb/> has no suggestions of her own. Wordsworth <lb/>went to the lakes, but he was never a lakepoet. He found in stones the<lb/> sermons he had already hidden there. He <lb/>went moralizing about the district, but <lb/>his good work as produced when he <lb/>returned, not to Nature but to poetry.<lb/> Poetry gave him "Laodamia," and <lb/>the fine sonnets,<lb/> and the <del>', and</del> <add change="#StE" facs="#f021_z025" place="intentions_1894">g</add><del change="#StE" facs="#f021_z025">G</del>reat Ode, such as it is. Nature<lb/> gave him "Martha Ray" and "Peter Bell,"</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

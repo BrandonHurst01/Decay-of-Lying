@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="22" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f023"/><milestone facs="#f023_z000" n="21" unit="folio_number"/><lb/>life's external forms, she created an <lb/>entirely new race of beings, whose <lb/>sorrows were more<milestone n="intentions_19"/>terrible than any <lb/>sorrow man has ever felt, whose joys <lb/>were keener than lover's joys, who had <lb/>the rage of the Titans and the calm<lb/> of the gods, who had monstrous and<lb/> marvellous sins, monstrous and <lb/>marvellous virtues. To them she gave <lb/>a language different from that of <lb/>actual use, a language full of <lb/>resonant music and sweet rhythm, made <lb/>stately by solemn cadence, or made<lb/> delicate by fanciful rhyme, jewelled<lb/> with wonderful words, and enriched with <lb/>lofty diction. She clothed her children<lb/> in strange raiment and gave them <lb/>masks, and at her bidding the antique <lb/>world rose from its marble tomb. A <lb/>new Cæsar stalked through the streets<lb/> of risen Rome, and with purple sail <lb/>and flute-led oars another Cleopatra passed <lb/>up the river to Antioch. Old myth and legend <lb/>and dream took shape and substance. History <lb/>was entirely re-written, and there was hardly <lb/>one of the dramatists who did not recognize<lb/> that the object of Art is not simple<lb/> truth but complex beauty. In this they <lb/>were perfectly right. Art itself is<lb/>really a form of exaggeration; and <lb/>selection, which is the very spirit of art,<lb/> is nothing more than an intensified mode <lb/>of over-emphasis."</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

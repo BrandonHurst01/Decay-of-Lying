@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="5" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f006"/><milestone facs="#f006_z000" n="5" unit="folio_number"/><lb/>well speak the truth at<milestone n="intentions_6"/>once. No, the <lb/>politicians won't do,<add change="#StD" hand="#Wilde" place="intentions">. Something may, </add><lb/><add change="#StD" hand="#Wilde" place="intentions">perhaps, be urged on behalf of the Bar. </add><lb/><add change="#StD" hand="#Wilde" place="intentions">The mantle of the Sophist has fallen</add><lb/><add change="#StD" hand="#Wilde" place="intentions"> on its members. Their feigned ardours </add><lb/><add change="#StD" hand="#Wilde" place="intentions">and unreal rhetoric are delightful. </add><lb/><add change="#StD" hand="#Wilde" place="intentions">They can make the worse appear </add><lb/><add change="#StD" hand="#Wilde" place="intentions">the better cause, as though they were fresh</add><lb/><add change="#StD" hand="#Wilde" place="intentions"> from Leontine schools,</add><note>"Ancient schools of rhetoric located in Leontini in Sicily" (Guy 364)</note><add change="#StD" hand="#Wilde" place="intentions"> and have been known </add><lb/><add change="#StD" hand="#Wilde" place="intentions">to wrest from reluctant juries triumphant </add><lb/><add change="#StD" hand="#Wilde" place="intentions">verdicts of acquittal for their clients, </add><lb/><add change="#StD" hand="#Wilde" place="intentions">even when those clients, as often happens, </add><lb/><add change="#StD" hand="#Wilde" place="intentions">were clearly and unmistakeably innocent.</add><lb/><add change="#StD" hand="#Wilde" place="intentions"> But they are briefed by the prosaic, and</add><lb/><add change="#StD" hand="#Wilde" place="intentions"> are not ashamed to appeal to precedent. </add><lb/><add change="#StD" hand="#Wilde" place="intentions">In spite of their endeavours, the truth will</add><lb/><add change="#StD" hand="#Wilde" place="intentions"> out. Newspapers, even, have degenerated. </add><lb/><add change="#StD" hand="#Wilde" place="intentions">They may now be absolutely relied upon.</add><lb/><add change="#StD" hand="#Wilde" place="intentions"> One feels it as one wades through their columns.</add><lb/><add change="#StD" hand="#Wilde" place="intentions"> It is always the unreadable that occurs.</add><lb/><add change="#StD" hand="#Wilde" place="intentions"> I am afraid that there is not much to be</add><lb/><add change="#StD" hand="#Wilde" place="intentions"> said in favour of either the lawyer</add><lb/><add change="#StD" hand="#Wilde" place="intentions"> or the journalist.</add> besides, what<lb/> I am pleading for is <del change="#StD" facs="#f006_z002" hand="#Wilde">l</del><add change="#StD" hand="#Wilde" place="intentions">L</add>ying in<lb/> art. Shall I read you what I have<lb/> written? It might do you a great<lb/> deal of good.<lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><note facs="#f006_z004" rend="pencil">Typesetters Signature: Shaw</note><hi change="#StB" facs="#f006_z011" hand="#Wilde" rend="underline">C</hi><add change="#StD" hand="#Wilde" place="intentions"><hi rend="italic">yril</hi></add>. Certainly, if you give me a cigarette. Thanks. By the way, what magazine do you intend it for?</p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">V</hi><add change="#StD" facs="#f006_z010" hand="#Wilde" place="intentions"><hi facs="#f006_z010" rend="italic">ivian</hi></add>. For the <hi change="#StC" rend="italic">Retrospective Review</hi>. <note>The revival Vivian refers to is an invention. As Josephine Guy notes, "the original Retrospective Review, founded in 180 and runnign until 1828, dealt with historical and antiquarian subjects; a second Retrospective Review--which (according to Evans) consisted of criticism of, and extracts from, curious and rare books--was briefly published in 1853-4 (Evans 295)" (Guy 364).</note>I <lb/>think I told you <add change="#StD" hand="#Wilde" place="intentions_1894">that the elect</add><del change="#StD" hand="#Wilde">we </del>had<lb/> revived it.<lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" facs="#f006_z009" hand="#Wilde" rend="underline">C</hi><add change="#StD" hand="#Wilde" place="intentions"><hi rend="italic">yril</hi></add>. Whom do you mean by <add change="#StD" hand="#Wilde" place="intentions">"the elect"</add><del change="#StD" hand="#Wilde">'we'</del>?<lb/></p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StB" facs="#f006_z008" hand="#Wilde" rend="underline">V</hi><add change="#StD" hand="#Wilde" place="intentions"><hi rend="italic">ivian</hi></add>. Oh, The Tired Hedonists of course.<lb/> It is a club to which I belong. We<lb/> are supposed to wear faded roses in<note>roses were frequently associated with Aestheticism, and particularly Walter Pater (usually satirical; see "Mr Rose" by W.H. Mallock in The New Republic. See Guy 364.</note><lb/> our button-holes when we meet, and to<lb/> have a sort of cult for Domitian.<note>Roman emperor "renowned for cruelty and decadent behavior"; referenced in both Dorian Gray and in letter describing a friend, "perhaps Lord Alfred Douglas" (Guy 364).</note><lb/> I am afraid you are not eligible.<lb/> You are too fond of simple pleasures.<lb/> <milestone n="nc_37"/></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">C</hi><add change="#StD" hand="#Wilde" place="intentions"><hi rend="italic">yril</hi></add>. I should be black-balled on<lb/> the ground of animal spirits, I<lb/> suppose?<lb/> <milestone n="intentions_7"/></p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">V</hi><add change="#StD" hand="#Wilde" place="intentions"><hi rend="italic">ivian</hi></add>. Probably. Besides, you are a <lb/>little too old. We don't admit<lb/> any<del change="#StD" hand="#Wilde">one</del><add change="#StD" hand="#Wilde" place="intentions">body</add></p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

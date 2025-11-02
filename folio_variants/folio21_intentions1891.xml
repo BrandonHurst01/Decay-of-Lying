@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="21" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f022"/> <milestone facs="#f022_z000" n="21" unit="folio_number"/> <lb/> <add change="#StD" hand="#Wilde" place="intentions">and the address to Mr Wilkinson's spade. </add><lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">C</hi><add change="#StD" hand="#Wilde" place="intentions"><hi rend="italic">yril</hi></add>. I think that view might be <lb/>questioned. I am rather inclined to<lb/> believe in the <del change="#StD" hand="#comp">'</del><add change="#StD" place="intentions">"</add>impulse from a vernal <lb/>wood,<del change="#StD" hand="#comp">'</del><add change="#StD" place="intentions">"</add> though of course the artistic<lb/> value of such an impulse depends<lb/> entirely on the kind of temperament<lb/> that receives it<add change="#StD" facs="#f022_z001" hand="#Wilde" place="intentions">, so that the return to Nature would come to mean simply the advance to a great personality. You would agree with that, I fancy. </add>However, proceed with<lb/> your article.</p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">V</hi><add change="#StD" hand="#Wilde" place="intentions"><hi rend="italic">ivian</hi></add> (<hi change="#StB" rend="italic">reading</hi>). <add change="#StD" place="intentions">"</add><del change="#StD" hand="#comp">'</del>Art begins with abstract <lb/>decoration<del change="#StD" facs="#f022_z003">,</del> with purely imaginative and <lb/>pleasurable work dealing with what is <lb/>unreal and non-existent. This is the<lb/> first stage. Then Life becomes fascinated<lb/> with this new wonder, and asks to be <lb/>admitted into the charmed [<hi change="#StC" facs="#f022_z006" rend="small">9</hi><milestone n="nc_43"/>circle. Art <lb/>takes life as part of her rough material,<lb/> recreates it, and refashions it in<lb/> fresh forms, is absolutely indifferent<lb/> to fact, invents, imagines, dreams, and<lb/> keeps between herself and reality the <lb/>impenetrable barrier of beautiful style,<lb/> of decorative or ideal treatment. The<lb/> third stage is when Life gets the<lb/> upper hand, and drives Art out into the <lb/>wilderness. This is the true decadence, and <lb/>it is from this that we are now<lb/> suffering.</p>
+				</sp>
+				<sp who="#V.">
+					<p><add change="#StD" place="intentions">"</add><del change="#StD" hand="#comp">'</del>Take the case of the English <lb/>drama. At first in the hands of the <lb/>monks <add change="#StD" facs="#f022_z011" hand="#Wilde" place="intentions">D</add><del change="#StD" facs="#f022_z011">d</del>ramatic <del change="#StD" facs="#f022_z011">Aa</del><add change="#StD" facs="#f022_z011" place="intentions">A</add>rt was abstract, decorative, <del change="#StD" facs="#f022_z012" hand="#Wilde">and </del><lb/>mythological. Then she enlisted<lb/><add change="#StD" facs="#f022_z014" place="intentions">L</add><del change="#StD">l</del>ife in her service, and using some of</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

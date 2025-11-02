@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="43" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f044"/><milestone facs="#f044_z000" n="43" unit="folio_number"/><lb/>passion, or from any <add change="#StBa" facs="#f044_z001" hand="#Wilde" place="above inline" rend="caret">great </add><milestone facs="#f044_z001" unit="caret"/>awakening of the <lb/>human conscious ness. She develops <lb/>purely on her own lines. She is not <lb/>symbolic of any age. It is the ages<lb/> that are her symbols, her reflections, her <lb/>echoes.</p>
+					<p>Even those who hold that Art is <lb/>representative of time, and place, and<lb/> people, <del change="#StBa" facs="#f044_z006" hand="#Wilde" rend="single-stroke">who </del>cannot help admitting that<lb/> the the more imitative an art is the<lb/> less <del change="#StBa" facs="#f044_z009" hand="#Wilde" rend="single-stroke">representative </del>it represents to us the<lb/> spirit of its <del change="#StBa" facs="#f044_z010" hand="#Wilde" rend="single-stroke">time </del><add change="#StBa" facs="#f044_z011" hand="#Wilde" place="above" rend="no_caret">age</add>. The evil faces of<lb/> the Roman Emperors look <del>at </del>out at<lb/> us from the foul porphyry and spotted<lb/> jasper in which the <del change="#StBa" facs="#f044_z014" hand="#Wilde" rend="single-stroke">ideal or </del>realistic<lb/> artists of the day delighted to work,<lb/> and we fancy that in those cruel<lb/> lips and heavy sensual jaws we <lb/>can find the secret of the ruin of<lb/> the Empire. But<milestone n="intentions_37"/>it was not so. <del change="#StBa" facs="#f044_z015" hand="#Wilde" rend="single-stroke">Neither </del><lb/>The vices of Tiberius could not destroy<lb/> that supreme civilization any more than<lb/> the virtues of the Antonines could save<lb/> it. It fell for other, for greater reasons.<lb/> The Sibyls and Prophets of<milestone facs="#f044_z020" unit="caret"/> <add change="#StBa" facs="#f044_z020" hand="#Wilde" place="above inline" rend="caret">the </add>Sistine may<lb/> indeed serve to interpret for us that<lb/> new birth of the emancipated spirit that<lb/> we call the Renaissance, but what<lb/> do the drunken boors and brawling<lb/> peasants of Dutch art tell us about<lb/> the great soul of Holland? The more<lb/> abstract, the more ideal an art is <lb/>the more it reveals to us the temper of</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="8" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f009"/><milestone facs="#f009_z000" n="8" unit="folio_number"/><lb/>rich rhythmic utterances, and in<lb/> neither case will the casual inspiration<lb/> of the moment suffice. Here, as<lb/> elsewhere, practice must precede<lb/> perfection. But in modern days while<lb/> the fashion of <del change="#StBa" facs="#f009_z001" hand="#Wilde" rend="single-stroke">reading </del><add change="#StBa" facs="#f009_z002" hand="#Wilde" place="above">writing </add>poetry has<lb/> become far too common, and should, if<lb/> possible<add change="#StC" facs="#f009_z003" hand="#comp" place="nc"><del change="#StD" facs="#f009_z003">,</del></add> be discouraged, the fashion<lb/> of lying has almost fallen into<lb/> disrepute. Many a young man<lb/> starts in life with a natural gift<lb/> <del change="#StAb" facs="#f009_z011" hand="#Wilde">of </del><add change="#StB" facs="#f009_z011" hand="#Wilde" place="inline"><del change="#StD" facs="#f009_z011" hand="#Wilde">for</del></add><add change="#StD" facs="#f009_z011" hand="#Wilde" place="intentions"> of</add> exaggeration which, if nurtured<lb/> in congenial and sympathetic surroundings<add change="#StB" hand="#Wilde" place="inline">,</add><lb/> or by the imitation of the best models,<lb/> might grow into something really<lb/> <milestone n="nc_38"/>great and wonderful. But, as a<lb/> rule, he comes to nothing. He either falls into careless habits of accuracy<del change="#StC" facs="#f009_z004" hand="#comp">....</del><add change="#StC" facs="#f009_z004" hand="#comp" place="nc">----</add><del change="#StC" facs="#f009_z005" hand="#comp">"</del><add change="#StC" facs="#f009_z005" hand="#comp" place="nc"><del change="#StD" facs="#f009_z005">'</del></add><add change="#StD" facs="#f009_z005" place="intentions">"</add> <lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" rend="underline">C</hi><del change="#StC" hand="#comp"><hi change="#StB" rend="underline">yril</hi></del><add change="#StD" hand="#Wilde" place="intentions"><hi rend="italic">yril</hi></add>. My dear <add change="#StD" facs="#f009_z006" hand="#Wilde" place="intentions">fellow </add><del change="#StD" facs="#f009_z006" hand="#Wilde">Vivian</del>!</p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StB" rend="underline">V</hi><del change="#StC" hand="#comp" rend="pencil"><hi change="#StB" rend="underline">ivian</hi></del><add change="#StD" hand="#Wilde" place="intentions"><hi rend="italic">ivian</hi></add>. Please don<add change="#StC" facs="#f009_z013" hand="#comp" place="nc">'</add>t interrupt in the<lb/> middle of a sentence. <del change="#StC" facs="#f009_z007" hand="#comp">"</del><add change="#StC" facs="#f009_z007" hand="#comp" place="nc"><del change="#StD" facs="#f009_z007">'</del></add><add change="#StD" facs="#f009_z007" place="intentions">"</add>He either<lb/> falls into careless habits of accuracy,<lb/> or takes to frequenting the society of<lb/> the aged and the well-informed. Both<lb/> things are equally fatal to his<lb/> imagination, as indeed they would be<lb/><milestone facs="#f009_z009" unit="caret"/> <add change="#StBa" facs="#f009_z008" hand="#Wilde" place="margin above" rend="caret">fatal </add>to the imagination of anybody, and in a short time he develops a<milestone n="intentions_9"/>morbid<lb/> and unhealthy faculty of truth-telling,<lb/> begins to verify all statements made<lb/> in his presence, has no hesitation in</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

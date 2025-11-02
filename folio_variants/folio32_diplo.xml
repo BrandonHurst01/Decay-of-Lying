@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="32" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f033"/><milestone facs="#f033_z000" n="32" unit="folio_number"/><lb/>Dryads peer from the thicket as she<lb/> passes by, and the brown Fauns smile <lb/>strangely at her when she comes near<lb/> them. She has hawk-faced Gods that<lb/> worship her, and the Centaurs gallop at<lb/> her side." <lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" rend="underline">yril</hi>. Is that the end of the article? <lb/></p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StB" hand="#Wilde" rend="underline">Vivian</hi>. No. There is one more passage,<lb/> but it is purely practical. It suggests<lb/> some methods by which we could<lb/> revive this lost art of Lying. <lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StB" rend="underline">yril</hi>. Well, before you read me that, I<lb/> should like to ask you a question.<lb/> What do you mean by saying that<lb/> Life, 'poor, probable, uninteresting human Life,' will try to reproduce the<lb/> marvels of <add change="#StBa" facs="#f033_z014" hand="#Wilde" place="overwritten">A</add>rt? I can quite<lb/> understand your objection to Art<lb/> being treated as a mirror. You<lb/> think it would reduce genius to<lb/> the position of a cracked<del change="#StBa" facs="#f033_z016" hand="#Wilde" rend="single-stroke">-</del>looking-glass.<lb/> But you dont mean to say that <lb/>seriously believe that Life imitates<lb/> Art, that Life in fact is the<lb/> mirror? and Art the reality?</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

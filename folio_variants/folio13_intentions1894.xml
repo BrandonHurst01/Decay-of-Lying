@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="13" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f014"/><milestone facs="#f014_z000" n="13" unit="folio_number"/><lb/> the master of the <hi rend="italic">roman psychologique</hi>,<lb/> he commits the error of imagining that<lb/> the men and women of modern life are<lb/> capable of being infinitely analysed for<lb/> an innumerable series of chapters. In<lb/> point of fact what is interesting about<lb/> people in good society--and<lb/> M. Bourget rarely moves out of the<lb/> Faubourg St. Germain, except to come to London--is the mask that each one of<lb/> them wears, not the reality that lies<lb/> behind the mask. It is a humiliating confession, but<milestone facs="#f014_z007" unit="enclosure"/> we are all of us made <milestone facs="#f014_z008" unit="caret"/>out of the same stuff. In<lb/> Falstaff there is something of Hamlet,<lb/> in Hamlet there is <milestone facs="#f014_z009" unit="caret"/>not a little of Falstaff.<lb/> The fat knight has his <milestone facs="#f014_z010" unit="caret"/>moods of melancholy, and <lb/>the young prince his <milestone facs="#f014_z011" unit="enclosure"/>moments of coarse humour. Where<lb/> we<milestone n="nc_40"/> differ from each other is purely in <lb/>accidentals: in dress, manner, tone<lb/> of voice, religious opinions, personal appearance, tricks of<lb/> habit, and the like. The <milestone n="intentions_13"/> more one <lb/>analyses people, the more all<lb/> reasons for analysis disappear. Sooner or<lb/> later one comes to that dreadful universal<milestone facs="#f014_z018" unit="enclosure"/> thing<lb/> called human nature. Indeed, as anyone who has ever worked among the<lb/> poor knows only too well, the brotherhood<lb/> of man is no mere poet's dream, it<lb/> is a most depressing and humiliating reality; and if a writer<lb/> insists upon analysing the upper classes,<lb/> he might just as well write of<lb/> match-girls and costermongers at once."<lb/><lb/></p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

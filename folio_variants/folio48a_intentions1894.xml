@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="48A" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f049"/><milestone facs="#f049_z000" n="48A" unit="folio_number"/><note facs="#f049_z001" rend="blue_pencil">"See 48B" and "48V" in blue pencil.</note><lb/>of our modern portrait painters<lb/>are doomed to absolute oblivion.<milestone n="intentions_40"/>They<lb/>never paint what they see. They <lb/>paint what the public sees, and the<lb/> public never sees anything. <lb/></p>
+				</sp>
+				<sp who="#C.">
+					<p><hi change="#StC" rend="italic">C</hi><hi rend="italic">yril.</hi> Well, after that I think I<lb/>should like to hear the end of your<lb/> article.<lb/></p>
+				</sp>
+				<sp who="#V.">
+					<p><hi change="#StC" rend="italic underline">V</hi><hi rend="italic">ivian</hi>. <lb/>With pleasure. <lb/><lb/><lb/><lb/><lb/><lb/><lb/>Whether it will do any good I really<lb/> cannot say. Ours is certainly the<lb/> dullest and most prosaic century possible.<lb/> Why, even Sleep has played us false, <lb/><lb/> and has closed <lb/>up the gates of ivory, and opened the<lb/> gates of horn. The dreams of the<lb/> great middle classes of this country, as <lb/>recorded in Mr. Myers's two bulky <lb/>volumes on the subject and in the <lb/>Transactions of the Physical Society, are<lb/> the most depressing things that I have ever <lb/>read. There is not even a fine <lb/>nightmare among them. They are <lb/>commonplace, sordid, and tedious. As</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

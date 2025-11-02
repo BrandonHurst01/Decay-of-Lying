@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="38" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f039"/><milestone facs="#f039_z000" n="38" unit="folio_number"/><lb/>had done with deliberate intent, that<lb/> he ran away as hard as he could<lb/> go. He was, however, very closely followed, and finally he took refuge in a <lb/>surgery, the door of which happened to<lb/> be open, where<milestone facs="#f039_z006" unit="caret"/> he explained to a young<lb/> assistant, who<lb/><add change="#StE" facs="#f039_z027" hand="#Wilde" place="intentions_1894"> was serving </add>there, exactly what had<lb/> occurred. The humanitarian crowd were induced to<lb/> go away on his giving them a small<lb/> sum of money, and as soon as the<lb/> coast was <add change="#StE" facs="#f039_z028" hand="#Wilde" place="intentions_1894">quite </add>clear he left. As he<lb/> passed out, the name on the<lb/> brass door-plate of the surgery caught<lb/> his eye. It was "Jekyll." <lb/>At least it should have been.<lb/></p>
+					<p><note facs="#f039_z013" rend="pencil">Typesetter's signature: Hart. Bracket signaling division of work/section.</note><milestone facs="#f039_z014" unit="bracket"/>Here the imitation, as far as it went, was of course<lb/> accidental. In the following case the<lb/> imitation was self-conscious. In the<lb/> year 1879, just after I had left<lb/> Oxford, I met at a reception <lb/>at the house of one of the Foreign<lb/> Ministers a <del>nature. </del>woman of very curious exotic beauty. We became great friends, and were constantly together. <lb/>And yet what interested me<lb/> most in her was not her beauty, but her character, her entire vagueness<lb/><milestone n="intentions_31"/>of character. She seemed to have no<lb/> personality<milestone facs="#f039_z023" unit="enclosure"/> at all, but simply the possibility<lb/> of many types. Sometimes she would<lb/> give herself up entirely to Art, turn<lb/> her drawing-room into a studio, and<lb/> spend two or three days a week at<lb/> picture-galleries or museums. The she<lb/> would take to attending race-meetings,</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>

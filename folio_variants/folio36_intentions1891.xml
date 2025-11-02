@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div change="#StB" n="36" type="r">
+				<sp who="#V.">
+					<p><pb facs="#f037"/><milestone facs="#f037_z000" n="36" unit="folio_number"/><lb/>moulds it to its purpose. The nineteenth<milestone n="intentions_29"/><lb/>century, as we know it, is largely an<lb/> invention of Balzac. Our Luciens de<lb/> Rubempré, our Rastignacs, and De Marsays<lb/> made their first appearance<del change="#StD" facs="#f037_z001" hand="#Wilde"> in the</del> <add change="#StD" facs="#f037_z001" hand="#Wilde" place="intentions">on the stage of the </add><lb/><hi change="#StB" rend="italic">Comédie Humaine</hi>. We are merely carrying<lb/> out, with footnotes and unnecessary<lb/> additions, the whim or fancy <add change="#StD" facs="#f037_z002" hand="#Wilde" place="intentions">or creative vision</add> of a great <lb/>novelist. I once asked a lady who <lb/>knew Thackeray intimately, whether he<lb/> had had any model for Becky Sharp.<lb/> She told me that Becky was an invention,<lb/> but that the idea of the character had<lb/> been partly suggested by a governess<lb/> who lived in the neighbourhood of Kensington<lb/> Square, and was the companion of a very<lb/> selfish and rich old woman.<lb/> I inquired what became of the<lb/> governess, and she replied that, oddly<lb/> enough, some years <milestone n="nc_49"/>after the appearance<lb/> of <hi change="#StC" facs="#f037_z010" rend="italic">Vanity Fair</hi>, <del change="#StD" facs="#f037_z011" hand="#Wilde">the governess </del><add change="#StD" facs="#f037_z011" hand="#Wilde" place="intentions">she </add>ran away<lb/> with the nephew of the lady with whom<lb/> she was living, and for a short time<lb/> made a great splash in society, quite<lb/> in Mrs Rawdon Crawley's <del change="#StD" facs="#f037_z013" hand="#Wilde">method </del><add change="#StD" facs="#f037_z013" hand="#Wilde" place="intentions">style, and entirely by Mrs Rawdon Crawley's methods</add>.<lb/> Ultimately she came to grief, <lb/><lb/>disappeared to the Continent, and<lb/><milestone facs="#f037_z016" unit="caret"/> used to be occasionally seen at Monte Carlo<lb/> and other gambling places. The noble<lb/> gentleman from whom the same great<lb/> sentimentalist drew Colonel Newcome</p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>
